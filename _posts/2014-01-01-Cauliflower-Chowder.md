@@ -17,10 +17,12 @@ layout: recipe
 - 2 green onions, chopped (optional)
 
 ##Directions
-Whisk together flour and 1/4 cup chicken broth in a small bowl then set aside.
-Saute bacon in a large soup pot over medium heat until crisp. Using a slotted spoon, transfer bacon to a paper towel-lined plate then remove all but 1 Tablespoon drippings from the pot. Add chopped onion (if using,) celery, and garlic to the pot then season with salt and pepper and saute until vegetables are tender, about 4-5 minutes.
-Add cauliflower and onion powder (if using) to the pot then stir to combine. Add water then place a lid on top and steam cauliflower until tender, stirring a couple times, about 5-7 minutes. Add remaining chicken broth and milk then turn up heat and bring to a boil.
-Slowly whisk in flour/chicken broth mixture while stirring, then turn down heat and simmer for 3-4 minutes, or until chowder has thickened. Turn off heat then stir in 2 cups cheddar cheese a little at a time until smooth, then stir in half the cooked bacon. Taste and adjust salt, pepper, and/or hot sauce if necessary. Serve topped with remaining shredded cheese, cooked bacon, and green onions, if desired.
+1. Mix the dry ingredients
+2. Cut the butter into &frac18;th-inch cubes, and cut in.  Work it quickly with your hands until it forms a coarse meal.
+3. Add milk gradually, stirring until soft dough is formed.
+4. Turn out on slightly floured board and lightly knead for 30 seconds, enough to shape.
+5. Roll &frac12;-inch thick and cut with 2 inch floured biscuit cutter, or just part the dough into drop biscuits.
+6. Bake on ungreased sheet in a 400&deg;f oven for 12-15 minutes. Makes 6 biscuits.
 
 source: [Old Fashioned Living](http://oldfashionedliving.com/biscuits.html">http://oldfashionedliving.com/biscuits.html)
 
