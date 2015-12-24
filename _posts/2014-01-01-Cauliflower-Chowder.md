@@ -2,19 +2,11 @@
 layout: recipe
 ---
 ##Ingredients: 
-- 8 slices center-cut bacon, chopped and divided
-- 1/2 small onion, chopped OR 1 teaspoon onion powder
-- 1 celery stalk, chopped
-- 2 garlic cloves, minced
-- salt & pepper
-- 4 cups shredded or grated cauliflower (1/2 large head)
-- 2 Tablespoons water
-- 2 Tablespoons gluten-free or all-purpose flour
-- 2 cups chicken broth, divided
-- 2 cups 2% milk
-- 3-4 dashes hot sauce (or more or less)
-- 2-1/2 cups (12oz) shredded sharp cheddar cheese, divided
-- 2 green onions, chopped (optional)
+- 2 cups sifted flour
+- 2 tsp baking powder
+- &frac12; tsp salt
+- 4 tablespoons butter
+- about &frac34; cup milk
 
 ##Directions
 1. Mix the dry ingredients
