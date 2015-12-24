@@ -6,7 +6,7 @@ layout: recipe
 - Olive oil to drizzle
 - 2 teaspoons garlic powder
 - &frac14; teaspoon salt
-- &frac18; teaspoon pepper
+- 1/8 teaspoon pepper
 - 1 tablespoon melted butter
 - &frac12; to &frac34; hot wing sauce of choice
 
