@@ -22,7 +22,7 @@ layout: recipe
 2. Stir in quinoa, vegetable broth, beans, tomatoes, corn, chili powder and cumin; season with salt and pepper, to taste. Bring to a boil; cover, reduce heat and simmer until quinoa is cooked through, about 20 minutes.
 3. Garnish with avocado, lime juice, and cilantro.
 
-source: [Damn delicious](http://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/), who sourced it from [Cook like a champion ](http://cooklikeachampion.com/2014/02/one-pan-mexican-quinoa/)
+source: [Damn Delicious](http://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/), who sourced it from [Cook Like a Champion ](http://cooklikeachampion.com/2014/02/one-pan-mexican-quinoa/)
 
 	
 
