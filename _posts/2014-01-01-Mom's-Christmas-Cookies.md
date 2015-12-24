@@ -22,5 +22,5 @@ layout: recipe
 7. Bake at 350&deg;f
 8. Allow to cool and frost
 
-Stolen directly from: ![A tombstone with this recipe on it](/images/christmas-cookies.jpg)
+Stolen directly from: ![A tombstone with this recipe on it]({{ site.baseurl }}/images/christmas-cookies.jpg)
 and if you're curious, a little more info about the tombstone can be found [here](http://wcfcourier.com/news/local/iowa-cookie-recipe-memorialized-on-gravestone/article_43d424d4-4e17-11e2-8654-0019bb2963f4.html) and [here](http://www.thegazette.com/2012/12/24/family-cookie-recipe-stands-the-test-of-time)
