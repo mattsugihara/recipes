@@ -2,19 +2,25 @@
 layout: recipe
 ---
 ##Ingredients: 
-- 2 cups sifted flour
-- 2 tsp baking powder
-- &frac12; tsp salt
-- 4 tablespoons butter
-- about &frac34; cup milk
+- 1 tablespoon olive oil
+- 2 cloves garlic, minced
+- 1 jalapeno, minced
+- 1 cup quinoa
+- 1 cup vegetable broth
+- 1 (15-ounce) can black beans, drained and rinsed
+- 1 (14.5 oz) can fire-roasted diced tomatoes
+- 1 cup corn kernels
+- 1 teaspoon chili powder
+- 1/2 teaspoon cumin
+- Kosher salt and freshly ground black pepper, to taste
+- 1 avocado, halved, seeded, peeled and diced
+- Juice of 1 lime
+- 2 tablespoons chopped fresh cilantro leaves
 
 ##Directions
-1. Mix the dry ingredients
-2. Cut the butter into 1/8th-inch cubes, and cut in.  Work it quickly with your hands until it forms a coarse meal.
-3. Add milk gradually, stirring until soft dough is formed.
-4. Turn out on slightly floured board and lightly knead for 30 seconds, enough to shape.
-5. Roll &frac12;-inch thick and cut with 2 inch floured biscuit cutter, or just part the dough into drop biscuits.
-6. Bake on ungreased sheet in a 400&deg;f oven for 12-15 minutes. Makes 6 biscuits.
+1. Heat olive oil in a large skillet over medium high heat. Add garlic and jalapeno, and cook, stirring frequently, until fragrant, about 1 minute.
+2. Stir in quinoa, vegetable broth, beans, tomatoes, corn, chili powder and cumin; season with salt and pepper, to taste. Bring to a boil; cover, reduce heat and simmer until quinoa is cooked through, about 20 minutes.
+3. Garnish with avocado, lime juice, and cilantro.
 
 source: [Old Fashioned Living](http://oldfashionedliving.com/biscuits.html">http://oldfashionedliving.com/biscuits.html)
 
