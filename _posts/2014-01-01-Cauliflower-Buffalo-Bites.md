@@ -1,7 +1,7 @@
 ---
 layout: recipe
 ---
-##Ingredients: 
+##Ingredients
 - 1 large head cauliflower, cut into bite-size florets
 - Olive oil to drizzle
 - 2 teaspoons garlic powder
