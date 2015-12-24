@@ -11,6 +11,7 @@ email: mattsugihara@gmail.com
 twitter_username: mattsugihara
 github_username:  mtsugi
 permalink: :title/
+baseurl: /recipes
 
 # Build settings
 markdown: kramdown
