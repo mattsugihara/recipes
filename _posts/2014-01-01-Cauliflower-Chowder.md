@@ -2,19 +2,25 @@
 layout: recipe
 ---
 ##Ingredients: 
-- 2 cups sifted flour
-- 2 tsp baking powder
-- &frac12; tsp salt
-- 4 tablespoons butter
-- about &frac34; cup milk
+- 8 slices center-cut bacon, chopped and divided
+- 1/2 small onion, chopped OR 1 teaspoon onion powder
+- 1 celery stalk, chopped
+- 2 garlic cloves, minced
+- salt & pepper
+- 4 cups shredded or grated cauliflower (1/2 large head)
+- 2 Tablespoons water
+- 2 Tablespoons gluten-free or all-purpose flour
+- 2 cups chicken broth, divided
+- 2 cups 2% milk
+- 3-4 dashes hot sauce (or more or less)
+- 2-1/2 cups (12oz) shredded sharp cheddar cheese, divided
+- 2 green onions, chopped (optional)
 
 ##Directions
-1. Mix the dry ingredients
-2. Cut the butter into &frac18;th-inch cubes, and cut in.  Work it quickly with your hands until it forms a coarse meal.
-3. Add milk gradually, stirring until soft dough is formed.
-4. Turn out on slightly floured board and lightly knead for 30 seconds, enough to shape.
-5. Roll &frac12;-inch thick and cut with 2 inch floured biscuit cutter, or just part the dough into drop biscuits.
-6. Bake on ungreased sheet in a 400&deg;f oven for 12-15 minutes. Makes 6 biscuits.
+Whisk together flour and 1/4 cup chicken broth in a small bowl then set aside.
+Saute bacon in a large soup pot over medium heat until crisp. Using a slotted spoon, transfer bacon to a paper towel-lined plate then remove all but 1 Tablespoon drippings from the pot. Add chopped onion (if using,) celery, and garlic to the pot then season with salt and pepper and saute until vegetables are tender, about 4-5 minutes.
+Add cauliflower and onion powder (if using) to the pot then stir to combine. Add water then place a lid on top and steam cauliflower until tender, stirring a couple times, about 5-7 minutes. Add remaining chicken broth and milk then turn up heat and bring to a boil.
+Slowly whisk in flour/chicken broth mixture while stirring, then turn down heat and simmer for 3-4 minutes, or until chowder has thickened. Turn off heat then stir in 2 cups cheddar cheese a little at a time until smooth, then stir in half the cooked bacon. Taste and adjust salt, pepper, and/or hot sauce if necessary. Serve topped with remaining shredded cheese, cooked bacon, and green onions, if desired.
 
 source: [Old Fashioned Living](http://oldfashionedliving.com/biscuits.html">http://oldfashionedliving.com/biscuits.html)
 
