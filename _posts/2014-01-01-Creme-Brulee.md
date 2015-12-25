@@ -3,21 +3,19 @@ layout: recipe
 ---
 
 ##Ingredients
-- 2 cups sifted flour
-- 2 tsp baking powder
-- &frac12; tsp salt
-- 4 tablespoons butter
-- about &frac34; cup milk
+- 1 quart heavy cream
+- 1 vanilla bean, split and scraped
+- 1 cup vanilla sugar, divided
+- 6 large egg yolks
+- 2 quarts hot water
 
 ##Directions
-1. Mix the dry ingredients
-2. Cut the butter into 1/8th-inch cubes, and cut in.  Work it quickly with your hands until it forms a coarse meal.
-3. Add milk gradually, stirring until soft dough is formed.
-4. Turn out on slightly floured board and lightly knead for 30 seconds, enough to shape.
-5. Roll &frac12;-inch thick and cut with 2 inch floured biscuit cutter, or just part the dough into drop biscuits.
-6. Bake on ungreased sheet in a 400&deg;f oven for 12-15 minutes. Makes 6 biscuits.
+1. Preheat the oven to 325&deg; F.
+2. Place the cream, vanilla bean and its pulp into a medium saucepan set over medium-high heat and bring to a boil. Remove from the heat, cover and allow to sit for 15 minutes. Remove the vanilla bean and reserve for another use.
+3. In a medium bowl, whisk together 1/2 cup sugar and the egg yolks until well blended and it just starts to lighten in color. Add the cream a little at a time, stirring continually. Pour the liquid into 6 (7 to 8-ounce) ramekins. Place the ramekins into a large cake pan or roasting pan. Pour enough hot water into the pan to come halfway up the sides of the ramekins. Bake just until the creme brulee is set, but still trembling in the center, approximately 40 to 45 minutes. Remove the ramekins from the roasting pan and refrigerate for at least 2 hours and up to 3 days.
+4. Remove the creme brulee from the refrigerator for at least 30 minutes prior to browning the sugar on top. Divide the remaining 1/2 cup vanilla sugar equally among the 6 dishes and spread evenly on top. Using a torch, melt the sugar and form a crispy top. Allow the creme brulee to sit for at least 5 minutes before serving.
 
-source: [Old Fashioned Living](http://oldfashionedliving.com/biscuits.html">http://oldfashionedliving.com/biscuits.html)
+source: [Alton Brown](http://www.foodnetwork.com/recipes/alton-brown/creme-brulee-recipe.html)
 
 	
 
