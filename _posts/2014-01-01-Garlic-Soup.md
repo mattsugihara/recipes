@@ -1,7 +1,7 @@
 ---
 layout: recipe
 ---
-##Ingredients: 
+##Ingredients
 - 1 tablespoon butter
 - olive oil
 - 2 large heads hardneck garlic (with 12 – 15 cloves each), divided

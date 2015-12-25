@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients: 
+##Ingredients
 - 1 stick cinnamon
 - 8 dried red chilis
 - 5 Tbsp coriander seeds

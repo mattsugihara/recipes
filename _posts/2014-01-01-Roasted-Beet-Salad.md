@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients: 
+##Ingredients
 - 8 medium-size beets, tops removed and scrubbed
 - 1/2 cup balsamic vinegar
 - 1/2 cup good olive oil

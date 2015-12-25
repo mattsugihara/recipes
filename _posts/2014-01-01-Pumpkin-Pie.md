@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients: 
+##Ingredients
 - 2 eggs, slightly beaten
 - 1 lb pumpkin puree (about 1&frac12; cups)
 - &frac34; cup sugar

@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients: 
+##Ingredients
 - 1 stick butter
 - 1 cup raw broccoli, minced
 - 2 shallots, minced

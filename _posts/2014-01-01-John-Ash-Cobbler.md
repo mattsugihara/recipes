@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients: 
+##Ingredients
 - 6-8 cups fruit
 - 1&frac12; cups dark brown sugar
 - &frac14; cups oats
