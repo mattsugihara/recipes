@@ -5,7 +5,7 @@ layout: recipe
 ##Ingredients
 - 1 cup flour
 - &frac12; cup cornmeal
-- 2 Tablespoons sugar
+- &frac14; cup sugar, divided in half
 - 1 &frac14; teaspoon baking powder
 - 1 teaspoon salt
 - &frac12; teaspoon baking soda
@@ -16,8 +16,8 @@ layout: recipe
 - 2 cups blueberries
 
 ##Directions
-1. Mix wet ingredients.
-2. Mix dry ingredients.
+1. Mix dry ingredients (using only half the sugar).
+2. Mix wet ingredients.
 3. Mix
 Cut the butter into 1/8th-inch cubes, and cut in.  Work it quickly with your hands until it forms a coarse meal.
 3. Add milk gradually, stirring until soft dough is formed.
