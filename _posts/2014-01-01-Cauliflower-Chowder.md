@@ -1,7 +1,8 @@
 ---
 layout: recipe
 ---
-##Ingredients: 
+
+##Ingredients
 - 8 slices center-cut bacon, chopped and divided
 - 1/2 small onion
 - 1 celery stalk, chopped
