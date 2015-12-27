@@ -3,8 +3,8 @@ layout: recipe
 ---
 
 ##Ingredients
-- 1 cup flour
-- &frac12; cup cornmeal
+- &frac34; cup flour
+- &frac34; cup cornmeal
 - &frac14; cup sugar, divided in half
 - 1 &frac14; teaspoon baking powder
 - 1 teaspoon salt
