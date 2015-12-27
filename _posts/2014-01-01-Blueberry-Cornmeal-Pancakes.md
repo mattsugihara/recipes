@@ -14,7 +14,9 @@ layout: recipe
 - &frac14; cup whole milk
 - 3 Tablespoons unsalted butter, melted and cooled
 - 1 egg
+
 - 2 cups blueberries
+- (+ the other half of the sugar)
 
 ##Directions
 1. Mix dry ingredients (using only half the sugar).
