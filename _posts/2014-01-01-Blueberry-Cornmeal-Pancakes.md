@@ -23,6 +23,6 @@ layout: recipe
 2. Mix wet ingredients.
 3. Combine wet and dry ingredients.
 4. Mix remaining sugar with blueberries.
-5. Griddle the things
+5. Griddle the things.
 
 source: My mom
