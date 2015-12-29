@@ -1,2 +1,2 @@
 # recipes
-Just a place where I keep recipes. It's easier than a recipe box.
+Just a place where I keep recipes. Somehow manages to be easier than a recipe box.
