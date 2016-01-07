@@ -25,4 +25,4 @@ layout: recipe
 4. Mix remaining sugar with blueberries.
 5. Griddle the things.
 
-source: My mom
+source: [Pink Parsley](http://www.pink-parsley.com/2012/11/broccoli-cheddar-soup.html)
