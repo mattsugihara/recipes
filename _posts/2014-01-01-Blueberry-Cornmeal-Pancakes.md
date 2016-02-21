@@ -20,6 +20,7 @@ layout: recipe
 - (+ the other half of the sugar)
 
 ##Directions
+
 1. Mix dry ingredients (using only half the sugar).
 2. Mix wet ingredients.
 3. Combine wet and dry ingredients.

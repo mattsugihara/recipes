@@ -19,6 +19,7 @@ layout: recipe
 - salt and pepper
 
 ##Directions
+
 1. In a large pot or Dutch oven, melt 2 tablespoons of the butter over medium heat.
 2. Add the onion and carrots to the pan and sauté until tender, about 5-7 minutes.
 3. Stir in the broccoli, chicken broth, onion salt, red pepper flakes, and garlic powder. Bring the mixture to a boil, then reduce the heat to a simmer.
