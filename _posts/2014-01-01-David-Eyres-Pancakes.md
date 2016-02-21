@@ -11,7 +11,7 @@ layout: recipe
 - Pinch of freshly grated nutmeg
 - Dash of Vanilla
  
-###Top With:
+###Top With
 
 - 2 tablespoons confectioners' sugar and lemon juice
 - Berry compote
