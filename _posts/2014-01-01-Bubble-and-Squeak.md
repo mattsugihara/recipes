@@ -11,6 +11,7 @@ layout: recipe
 - 4 poached eggs
 
 ##Directions
+
 1. Boil the potatoes until just tender, 15 minutes. Set aside.
 2. Par boil the brussels sprouts until just tender, about 5 minutes. Set aside.
 3. In a separate pan over medium high heat, render the fat out of the bacon and set aside cooked bacon bits.
