@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - &frac34; cup flour
 - &frac34; cup cornmeal
 - &frac14; cup sugar, divided in half

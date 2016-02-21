@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 1 pound mixed mushrooms
 - 4 large garlic cloves, minced
 - 2 tablespoons unsalted butter

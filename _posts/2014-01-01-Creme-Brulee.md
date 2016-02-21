@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 1 quart heavy cream
 - 1 vanilla bean, split and scraped
 - 1 cup vanilla sugar, divided

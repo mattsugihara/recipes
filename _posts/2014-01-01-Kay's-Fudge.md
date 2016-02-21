@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 2 squares chocolate
 - 2 Tbsp. butter
 - 1 cup milk

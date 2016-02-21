@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 3 tablespoons olive oil
 - 1 1/2 cups chopped red onions (2 onions)
 - 1 carrots, unpeeled and chopped
@@ -17,6 +18,7 @@ layout: recipe
 
 
 ##Instructions
+
 1. Heat the olive oil in a large, heavy-bottomed pot over medium-low heat. Add the onions and carrots and saute for about 10 minutes, until very tender.
 2. Add the garlic and cook for 1 minute. Add the tomatoes, sugar, tomato paste, basil, chicken stock, salt, and pepper and stir well.
 3. Bring the soup to a boil, lower the heat, and simmer, uncovered, for 30 to 40 minutes, until the tomatoes are very tender.

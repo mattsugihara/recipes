@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 1 baking potatoe, diced
 - 1 pound Brussels sprouts, quartered
 - &frac12; pound bacon, thicker and fattier the better, cut into half inch pieces

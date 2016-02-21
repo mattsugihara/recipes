@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 2 lbs. brussels sprouts
 - 6 pieces bacon, preferably thick cut
 - 2 cloves garlic

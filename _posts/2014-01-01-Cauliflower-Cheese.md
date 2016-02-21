@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 2 heads cauliflower (2.5lbs)
 - 4 Tbsp. butter
 - 4 Tbsp. flour
@@ -11,6 +12,7 @@ layout: recipe
 - a shot of hot sauce
  
 ##Instructions
+
 1. Preheat the broiler
 2. Boil the cauliflower until just tender, about 15 minutes.
 3. Drain the cauliflower and shake out the excess water.

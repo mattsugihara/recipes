@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 1 tablespoon olive oil
 - 2 cloves garlic, minced
 - 1 jalapeno, minced

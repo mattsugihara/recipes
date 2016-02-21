@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 ###Sauce
 - 12-ounce can peeled tomatoes, plus 1/2 cup of the juices
 - 1 jalapeño, with seeds, roughly chopped

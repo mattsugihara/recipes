@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 1 cup sugar
 - &frac12; margarine
 - 2 eggs, beaten
@@ -13,6 +14,7 @@ layout: recipe
 - 1 tsp. salt
  
 ##Instructions
+
 1. Cream sugar and margarine.
 2. Add eggs, vanilla, and cream
 3. In a separate bowl, combine flour, baking powder, and salt.
