@@ -8,8 +8,6 @@ layout: recipe
 - &#8531; cup flour
 - 3 to four cups milk
 
-
-
 ##Directions
 
 1. Acquire [biscuits](../biscuits)
