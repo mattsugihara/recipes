@@ -16,6 +16,7 @@ layout: recipe
 - 2 tablespoons finely chopped fresh parsley leaves
 
 ##Directions
+
 1. In a heavy 10 inch pan, cook garlic until aromatic. Add onion and cook until soft.
 2. Add mushrooms and soy sauce and saute over medium high heat until mushrooms begin to brown and the water cooks out.
 3. Add wine and vinegar and boil until dry. Add cornstartch mixture and sugar and bring to a boil.
