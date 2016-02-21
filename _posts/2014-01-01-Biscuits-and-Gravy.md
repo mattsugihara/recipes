@@ -10,7 +10,7 @@ layout: recipe
 
 
 
-##Instructions
+##Directions
 
 1. Acquire [biscuits](../biscuits)
 2. Fry sausage loose.

@@ -11,7 +11,7 @@ layout: recipe
 - 2 cups coarsly grated cheddar or fontina
 - a shot of hot sauce
  
-##Instructions
+##Directions
 
 1. Preheat the broiler
 2. Boil the cauliflower until just tender, about 15 minutes.

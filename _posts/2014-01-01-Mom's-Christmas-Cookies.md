@@ -13,7 +13,7 @@ layout: recipe
 - 1 Tbsp. baking powder
 - 1 tsp. salt
  
-##Instructions
+##Directions
 
 1. Cream sugar and margarine.
 2. Add eggs, vanilla, and cream

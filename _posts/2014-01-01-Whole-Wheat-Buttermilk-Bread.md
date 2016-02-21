@@ -16,7 +16,7 @@ Makes two loaves
 - 2 teaspoons salt
 - 2 to 4 tablespoons unsalted, room-temperature butter, cut into 1/4 inch pieces
 
-##Instructions
+##Directions
 
 1. Dissolve the yeast in the warm water.
 2. In another bowl, mix the hot water with the honey and add the cold buttermilk.

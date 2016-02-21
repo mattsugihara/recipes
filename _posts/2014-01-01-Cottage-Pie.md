@@ -17,7 +17,7 @@ layout: recipe
 - &frac12; cup dry red wine
 - 1 can diced tomatoes (15oz.)
 
-##Instructions
+##Directions
 
 1. Bring a pot of salted water to boil and cook the potatoes until very tender, roughly 25 minutes.
 2. Drain the potatoes, add the butter and cream salt, and mash.

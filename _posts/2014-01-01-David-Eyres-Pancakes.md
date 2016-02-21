@@ -15,7 +15,7 @@ layout: recipe
 - 2 tablespoons confectioners' sugar and lemon juice
 - Berry compote
 
-##Instructions
+##Directions
 
 1. Preheat oven to 425&deg;f. As the oven is heating, place butter in a 12" cast iron skillet and place it in the oven.
 2. In a medium bowl, lightly beat flour, milk, eggs, and nutmeg until just combined. Batter will be slightly lumpy.
