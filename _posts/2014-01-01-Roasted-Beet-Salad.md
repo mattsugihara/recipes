@@ -14,6 +14,7 @@ layout: recipe
 - 4 ounces soft goat cheese, such as Montrachet, crumbled
 	
 ##Directions
+
 1. Preheat oven to 400&#176;F
 2. Wrap the beets individually in aluminum foil and roast until tender, about an hour
 3. Unwrap each beet and set aside, until cool enough to handle.
