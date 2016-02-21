@@ -12,6 +12,7 @@ layout: recipe
 - Dash of Vanilla
  
 ###Top With:
+
 - 2 tablespoons confectioners' sugar and lemon juice
 - Berry compote
 
