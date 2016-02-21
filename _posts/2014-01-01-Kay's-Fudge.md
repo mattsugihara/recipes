@@ -12,6 +12,7 @@ layout: recipe
 - pinch of salt
 
 ##Directions
+
 1. Melt chocolate and butter on low heat
 2. Stir in milk and bring to a boil
 3. Add sugar, vanilla, and salt
