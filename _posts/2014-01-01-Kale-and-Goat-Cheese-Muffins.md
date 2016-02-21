@@ -17,6 +17,7 @@ layout: recipe
 - &frac14; cup coarsely grated parmesan
 	
 ##Directions
+
 1. Preheat oven to 350&deg; and butter 12 cup muffin tin
 2. Bring milk and butter to a barely a boil. Add kale, reduce heat to a simmer for 5 minutes (until kale is tender)
 3. Puree.
