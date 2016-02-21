@@ -17,6 +17,7 @@ layout: recipe
 - canola oil (for frying)
 
 ##Garnish
+
 - grainy mustard
 - cornishons
 
