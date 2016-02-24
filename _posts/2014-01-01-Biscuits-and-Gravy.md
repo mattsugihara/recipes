@@ -2,8 +2,7 @@
 layout: recipe
 ---
 
-Ingredients
-------
+##Ingredients
 
 - 1 lb sausage, casing removed
 - &#8531; cup flour
