@@ -23,6 +23,7 @@ layout: recipe
  - 5 cups tomato sauce, such as Quick and Easy Italian American Red Sauce, The Best Slow Cooked Tomato Sauce, or The Best Fresh Tomato Sauce
 
 ##Directions
+
 1. In a heatproof measuring cup, sprinkle gelatin all over surface of stock and let stand for 5 minutes (if not using stock and gelatin, proceed to Step 2). Microwave stock, stirring once or twice, until gelatin completely dissolves, about 2 minutes. Pour stock into a wide heatproof bowl and refrigerate until fully set, about 30 minutes.
 
 2. In the bowl of a stand mixer, combine bread with buttermilk, tossing to coat. Let stand, tossing occasionally, until bread is completely moist, about 10 minutes. Squeeze bread between your fingers or mash with a spoon to make sure there are no dry spots; if there are dry spots that refuse to moisten, add more buttermilk 1 tablespoon at a time until bread is moist throughout.
