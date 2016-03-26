@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 3 baking potatoes, peeled and cut in 1" cubes
 - 4 Tbsp. butter
 - 1 cup cream
@@ -16,7 +17,8 @@ layout: recipe
 - &frac12; cup dry red wine
 - 1 can diced tomatoes (15oz.)
 
-##Instructions
+##Directions
+
 1. Bring a pot of salted water to boil and cook the potatoes until very tender, roughly 25 minutes.
 2. Drain the potatoes, add the butter and cream salt, and mash.
 3. Meanwhile, add a few turns of olive oil to a cast iron skillet. Over medium-high heat, brown the meat, about 15 minutes. Set the meat aside.

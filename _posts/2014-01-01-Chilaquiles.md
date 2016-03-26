@@ -3,7 +3,9 @@ layout: recipe
 ---
 
 ##Ingredients
+
 ###Sauce
+
 - 12-ounce can peeled tomatoes, plus 1/2 cup of the juices
 - 1 jalapeño, with seeds, roughly chopped
 - 1 small white onion, chopped
@@ -13,6 +15,7 @@ layout: recipe
 - Pinch of salt
 
 ###Everything else
+
 - Tortilla chips
 - Monterey Jack, shredded
 - Cotija
@@ -21,6 +24,7 @@ layout: recipe
 - 1 Avocado
 
 ##Directions
+
 1. Blend sauce ingredients until smooth.
 2. Heat sauce in a skillet with a bit of oil. Reduce until desired thickness. If necessary, add a bit of sugar to sweeten.
 3. In an oven-able pan, lay down tortilla chips and spread sauce.

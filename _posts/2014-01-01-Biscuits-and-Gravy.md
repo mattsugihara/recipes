@@ -3,13 +3,13 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 1 lb sausage, casing removed
 - &#8531; cup flour
-- 3 to four cups milk
+- 3 to 4 cups milk
 
+#Directions
 
-
-##Instructions
 1. Acquire [biscuits](../biscuits)
 2. Fry sausage loose.
 3. Sprinkle in flour and let the sausage absorb it

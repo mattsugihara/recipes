@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 1 Qt. low sodium chicken broth
 - 1 inch fresh ginger
 - 4 cloves garlic (2 cloves for the stock, 2 for garnish)
@@ -16,7 +17,8 @@ layout: recipe
 - 1 handful chopped scallions
 - 1 handful julienned mustard greens, baby spinach leaves, or kale
 
-##Instructions
+##Directions
+
 1. Place stock, bacon, ginger, garlic, and lemongrass in a pot. Reduce at a simmer for 30 to 45 minutes, until as much broth as you want to eat remains.
 2. Make a six minute egg and then marinate it in soy sauce. (Or [do this](http://www.seriouseats.com/recipes/2012/03/ajitsuke-tamago-japanese-marinated-soft-boiled-egg-recipe.html) beforehand if you're not into the whole last minute thing.)
 3. Remove bacon, lemongrass, and ginger from the stock. Reserve the bacon for later.

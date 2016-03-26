@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 1 tablespoon butter
 - olive oil
 - 2 large heads hardneck garlic (with 12 – 15 cloves each), divided
@@ -15,6 +16,7 @@ layout: recipe
 - salt and pepper to taste
 
 ##Directions
+
 1. Heat oven to 400&deg;f.
 2. Trim the root end off of the garlic and place in a ramekin with 1 tsp. of olive oil and salt.
 3. Cover with foil and back for 15 minutes until garlic is soft, but not all brown.

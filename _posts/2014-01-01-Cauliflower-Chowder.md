@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 8 slices center-cut bacon, chopped and divided
 - 1/2 small onion
 - 1 celery stalk, chopped
@@ -18,6 +19,7 @@ layout: recipe
 - 2 green onions, chopped
 
 ##Directions
+
 1. Whisk together flour and 1/4 cup chicken broth in a small bowl then set aside.
 2. Saute bacon in a large soup pot over medium heat until crisp. Using a slotted spoon, transfer bacon to a paper towel-lined plate then remove all but 1 Tablespoon drippings from the pot.
 3. Add chopped onion, celery, and garlic to the pot then season with salt and pepper and saute until vegetables are tender, about 4-5 minutes.

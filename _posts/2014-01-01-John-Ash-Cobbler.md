@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 6-8 cups fruit
 - 1&frac12; cups dark brown sugar
 - &frac14; cups oats
@@ -12,6 +13,7 @@ layout: recipe
 - 6 oz. sweet butter
 
 ##Directions
+
 1. Mix the dry ingredients
 2. Cut the butter into &frac14; inch cubes.
 3. Mix into a coarse meal
