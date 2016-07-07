@@ -5,6 +5,7 @@ layout: recipe
 Makes two loaves
 
 ##Ingredients
+
 - 2 teaspoons active dry yeast
 - &frac12; cup warm water
 - &frac34; cup very hot water
@@ -15,7 +16,8 @@ Makes two loaves
 - 2 teaspoons salt
 - 2 to 4 tablespoons unsalted, room-temperature butter, cut into 1/4 inch pieces
 
-##Instructions
+##Directions
+
 1. Dissolve the yeast in the warm water.
 2. In another bowl, mix the hot water with the honey and add the cold buttermilk.
 3. In a large mixing bowl or the bowl of a stand mixer, combine the flour with the salt. Make a well in the center and add the yeast mixture and buttermilk mixtures. Combine by stirring from the center outwards, incorporating all the flour. Test the dough at this point to make sure it is moist, but not sticky. If it is too dry, add a tablespoon of warm water and if too wet, add a tablespoon of flour.

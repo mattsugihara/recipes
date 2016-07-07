@@ -3,6 +3,7 @@ layout: recipe
 ---
 
 ##Ingredients
+
 - 1 stick butter
 - 1 cup raw broccoli, minced
 - 2 shallots, minced
@@ -14,6 +15,7 @@ layout: recipe
 - &frac14; olive oil
 	
 ##Directions
+
 1. Place 2 tablespoons butter in pan over medium heat. Cook broccoli, shallots, garlic until soft, about 10 minutes.
 2. Remove vegetables from heat and allow to cool.
 3. Add the remaining butter, parsley, &frac12; teaspoon each salt and pepper, and combine thoroughly.
