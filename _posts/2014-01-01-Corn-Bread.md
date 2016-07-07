@@ -5,7 +5,7 @@ layout: recipe
 ##Dry Ingredients: 
 - 1 cup corn meal
 - 1 cup flour
-- &frac14; cup cugar
+- &frac14; cup sugar
 - 1 Tbsp baking powder
 - 1 tsp salt
 
