@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 2 Tablespoons olive oil
 - &frac12; medium yellow onion, finely diced
@@ -21,7 +21,7 @@ layout: recipe
 - grainy mustard
 - cornishons
 
-##Directions
+## Directions
 
 1. In a large heavy skillet over medium heat, cook onions in olive oil until soft but not brown (about 8 minutes).
 2. Add cloves, nutmeg, and sage and cook until very fregrant (about 1 minute).

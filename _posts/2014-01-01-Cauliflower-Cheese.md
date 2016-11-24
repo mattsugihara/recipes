@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 2 heads cauliflower (2.5lbs)
 - 4 Tbsp. butter
@@ -11,7 +11,7 @@ layout: recipe
 - 2 cups coarsly grated cheddar or fontina
 - a shot of hot sauce
  
-##Directions
+## Directions
 
 1. Preheat the broiler
 2. Boil the cauliflower until just tender, about 15 minutes.

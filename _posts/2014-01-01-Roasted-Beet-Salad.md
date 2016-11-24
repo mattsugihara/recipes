@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 8 medium-size beets, tops removed and scrubbed
 - 1/2 cup balsamic vinegar
@@ -13,7 +13,7 @@ layout: recipe
 - 1/3 cup roasted, salted Marcona almonds, toasted
 - 4 ounces soft goat cheese, such as Montrachet, crumbled
 	
-##Directions
+## Directions
 
 1. Preheat oven to 400&#176;F
 2. Wrap the beets individually in aluminum foil and roast until tender, about an hour

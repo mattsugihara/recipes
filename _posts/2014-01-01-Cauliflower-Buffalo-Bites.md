@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 1 large head cauliflower, cut into bite-size florets
 - Olive oil to drizzle
@@ -12,7 +12,7 @@ layout: recipe
 - 1 tablespoon melted butter
 - &frac12; to &frac34; hot wing sauce of choice
 
-##Directions
+## Directions
 
 1. Preheat oven to 450F degrees.
 2. Place cauliflower florets into plastic bag. Drizzle olive oil over florets to barely coat.

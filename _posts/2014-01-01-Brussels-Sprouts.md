@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 2 lbs. brussels sprouts
 - 6 pieces bacon, preferably thick cut
@@ -11,7 +11,7 @@ layout: recipe
 - Olive oil or butter (optional)
 
 
-##Directions
+## Directions
 
 1. Cut the bacon into strips and render over medium heat.
 2. While the bacon's rendering, mince the garlic, slice the stem end of the sprouts off and cut them in half.

@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 6-8 cups fruit
 - 1&frac12; cups dark brown sugar
@@ -12,7 +12,7 @@ layout: recipe
 - 1 tsp salt (optional)
 - 6 oz. sweet butter
 
-##Directions
+## Directions
 
 1. Mix the dry ingredients
 2. Cut the butter into &frac14; inch cubes.

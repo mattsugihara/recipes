@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - &frac34; cup flour
 - &frac34; cup cornmeal
@@ -19,7 +19,7 @@ layout: recipe
 - 2 cups blueberries
 - (+ the other half of the sugar)
 
-##Directions
+## Directions
 
 1. Mix dry ingredients (using only half the sugar).
 2. Mix wet ingredients.

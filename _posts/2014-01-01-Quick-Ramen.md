@@ -2,9 +2,9 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
-###Broth
+### Broth
 
 - 8 shitake mushrooms
 - 2 rashers bacon
@@ -16,14 +16,14 @@ layout: recipe
 - 1 tablespoon black or rice wine vinegar
 - 1 teaspoon sesame oil
 
-###Other Stuff
+### Other Stuff
 - 2 package of ramen noodles (toss the soup packet)
 - 1 egg
 - 1 handful chopped scallions
 - 1 handful greens
 
 
-##Directions
+## Directions
 1. Dice the shitake mushrooms. Over medium heat in a large pot, brown the mushrooms until they begin to get crispy.
 1. Place stock, bacon, ginger, garlic, and lemongrass in a pot. Reduce at a simmer for 30 to 45 minutes, until as much broth as you want to eat remains.
 2. Make a six minute egg and then marinate it in soy sauce. (Or [do this](http://www.seriouseats.com/recipes/2012/03/ajitsuke-tamago-japanese-marinated-soft-boiled-egg-recipe.html) beforehand if you're not into the whole last minute thing.)

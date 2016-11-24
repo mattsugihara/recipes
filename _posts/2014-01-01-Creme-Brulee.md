@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 1 quart heavy cream
 - 1 vanilla bean, split and scraped
@@ -10,7 +10,7 @@ layout: recipe
 - 6 large egg yolks
 - 2 quarts hot water
 
-##Directions
+## Directions
 
 1. Preheat the oven to 325&deg;F.
 2. Place the cream, vanilla bean and its pulp into a medium saucepan set over medium-high heat and bring to a boil. Remove from the heat, cover and allow to sit for 15 minutes. Remove the vanilla bean and reserve for another use.
