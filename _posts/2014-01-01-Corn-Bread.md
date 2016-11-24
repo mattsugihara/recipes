@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Dry Ingredients
+## Dry Ingredients
 
 - 1 cup corn meal
 - 1 cup flour
@@ -10,13 +10,13 @@ layout: recipe
 - 1 Tbsp baking powder
 - 1 tsp salt
 
-##Wet Ingredients
+## Wet Ingredients
 
 - 1 egg, lighly beaten
 - 1 cup milk
 - &#8531; cup melted butter
 	
-##Directions
+## Directions
 
 1. Preheat oven to 400&#176;F
 2. Combine the dry ingredients.

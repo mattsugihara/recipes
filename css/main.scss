@@ -33,6 +33,10 @@ a:hover{
 
 ul,ol{
 	margin-left:2rem;
+
+	li{
+		margin-bottom: .5rem;
+	}
 }
 
 h1,h2,ol,ul,p{
@@ -57,17 +61,20 @@ strike{
 	list-style: none;
 	margin-left:0;
 
-	li{
-		padding-bottom: .5rem;
-	}
-
 	a{
 		color:$body-text;
+		display: block;
+		padding: .5rem 0;
 
 		&:hover{
 			color:$blue;
 			text-decoration: none;
+			background: #EEEEEE;
 		}
+	}
+
+	li{
+		margin: 0;
 	}
 }
 

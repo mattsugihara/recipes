@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 1 cup sugar
 - &frac12; margarine
@@ -13,7 +13,7 @@ layout: recipe
 - 1 Tbsp. baking powder
 - 1 tsp. salt
  
-##Directions
+## Directions
 
 1. Cream sugar and margarine.
 2. Add eggs, vanilla, and cream

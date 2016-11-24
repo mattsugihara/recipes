@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 2 Tablespoons butter (plus extra for greasing tins)
 - 2 cups milk
@@ -16,7 +16,7 @@ layout: recipe
 - &frac14; cup soft goat cheese
 - &frac14; cup coarsely grated parmesan
 	
-##Directions
+## Directions
 
 1. Preheat oven to 350&deg; and butter 12 cup muffin tin
 2. Bring milk and butter to a barely a boil. Add kale, reduce heat to a simmer for 5 minutes (until kale is tender)

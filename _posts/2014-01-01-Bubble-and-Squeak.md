@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 1 baking potatoe, diced
 - 1 pound Brussels sprouts, quartered
@@ -10,7 +10,7 @@ layout: recipe
 - 1 yellow onion, thinly sliced
 - 4 poached eggs
 
-##Directions
+## Directions
 
 1. Boil the potatoes until just tender, 15 minutes. Set aside.
 2. Par boil the brussels sprouts until just tender, about 5 minutes. Set aside.

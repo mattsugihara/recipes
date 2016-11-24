@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 6 Tbs butter, divided
 - ¾ cup onion, chopped
@@ -18,7 +18,7 @@ layout: recipe
 - 2 cups shredded sharp cheddar cheese
 - salt and pepper
 
-##Directions
+## Directions
 
 1. In a large pot or Dutch oven, melt 2 tablespoons of the butter over medium heat.
 2. Add the onion and carrots to the pan and sauté until tender, about 5-7 minutes.

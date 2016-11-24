@@ -2,7 +2,7 @@
 layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 1 tablespoon olive oil
 - 2 cloves garlic, minced
@@ -19,7 +19,7 @@ layout: recipe
 - Juice of 1 lime
 - 2 tablespoons chopped fresh cilantro leaves
 
-##Directions
+## Directions
 
 1. Heat olive oil in a large skillet over medium high heat. Add garlic and jalapeno, and cook, stirring frequently, until fragrant, about 1 minute.
 2. Stir in quinoa, vegetable broth, beans, tomatoes, corn, chili powder and cumin; season with salt and pepper, to taste. Bring to a boil; cover, reduce heat and simmer until quinoa is cooked through, about 20 minutes.
