@@ -7,14 +7,15 @@ layout: recipe
 - 2 lbs. brussels sprouts
 - 6 pieces bacon, preferably thick cut
 - 2 cloves garlic
-- 1 Tbsp butter (optional)
-- 1 Tbsp olive oil (optional)
 - Salt and pepper to taste
+- Olive oil or butter (optional)
+
 
 ##Directions
 
-1. Cut the bacon into strips and render over medium-low heat, maybe 30 minutes.
-2. While the bacon's rendering, mince the garlic and cut the brussels sprouts in half.
-3. Once the fat has rendered from your bacon, check it out and add butter if necessary. Should be enough fat in the pan to liberally coat the sprouts. 
-4. Add garlic, let it get aromatic.
-5. Crank up the heat to medium-high and toss in your brussels sprouts. Turn every 4 minutes until cooked.
+1. Cut the bacon into strips and render over medium heat.
+2. While the bacon's rendering, mince the garlic, slice the stem end of the sprouts off and cut them in half.
+3. Once the fat has rendered from your bacon, remove it from the pan.
+4. Add the garlic to the pan and let it get aromatic.
+5. Increase the heat to medium-high toss in the sprouts. If there's not enough fat in the pan to coat the sprouts add some butter or olive oil.
+6. Let the sprouts get brown. Return the bacon to the pan, toss, and serve.
