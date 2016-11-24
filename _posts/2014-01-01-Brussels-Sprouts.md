@@ -7,8 +7,8 @@ layout: recipe
 - 2 lbs. brussels sprouts
 - 6 pieces bacon, preferably thick cut
 - 2 cloves garlic
-- 1 Tbsp butter
-- 1 Tbsp olive oil
+- 1 Tbsp butter (optional)
+- 1 Tbsp olive oil (optional)
 - Salt and pepper to taste
 
 ##Directions
