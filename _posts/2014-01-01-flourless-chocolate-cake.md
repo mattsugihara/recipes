@@ -9,8 +9,8 @@ layout: recipe
  - &frac12; cup unsweetened cocoa powder plus additional for sprinkling
 
 ## Directions
-1. preheat oven to 365&deg;f
-2. butter an 8" baking pan, ideally springform. If not, line the bottom with parchment or wax paper and butter that
+1. Preheat oven to 375&deg;f
+2. Butter an 8" baking pan, ideally springform. If not, line the bottom with parchment or wax paper and butter that
 3. Melt and combine the chocolate and butter.
 4. Whisk in the sugar and egg yolks
 5. Beat the eggs whites to stiff peaks, then fold in one third, then remaing two thirds
