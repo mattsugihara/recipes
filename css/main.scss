@@ -64,7 +64,8 @@ strike{
 	a{
 		color:$body-text;
 		display: block;
-		padding: .5rem 0;
+		padding: .5rem;
+		margin-left: -.5rem;
 
 		&:hover{
 			color:$blue;
