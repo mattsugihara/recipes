@@ -15,3 +15,11 @@ baseurl: /recipes
 
 # Build settings
 markdown: kramdown
+
+# this makes each post use the post layout
+defaults:
+ -
+    scope:
+      path: ""
+    values:
+      layout: "recipe"

@@ -1,5 +1,4 @@
 ---
-layout: recipe
 ---
 
 Makes two loaves
