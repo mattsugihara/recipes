@@ -67,6 +67,8 @@ strike{
 		display: block;
 		padding: .5rem;
 		margin-left: -.5rem;
+		border-radius: 2px;
+		transition: all .25s ease;
 
 		&:hover{
 			color:$blue;
