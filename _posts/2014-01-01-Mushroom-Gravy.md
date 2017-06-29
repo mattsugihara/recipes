@@ -1,8 +1,7 @@
 ---
-layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 1 pound mixed mushrooms
 - 4 large garlic cloves, minced
@@ -15,7 +14,7 @@ layout: recipe
 - 1/2 teaspoon sugar
 - 2 tablespoons finely chopped fresh parsley leaves
 
-##Directions
+## Directions
 
 1. In a heavy 10 inch pan, cook garlic until aromatic. Add onion and cook until soft.
 2. Add mushrooms and soy sauce and saute over medium high heat until mushrooms begin to brown and the water cooks out.

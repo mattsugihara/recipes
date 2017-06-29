@@ -1,8 +1,7 @@
 ---
-layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 2 Tbsp olive oil
 - 1 large yellow onion thinly sliced
@@ -18,7 +17,7 @@ layout: recipe
 - 1 lb. rigatoni
 - Parmesan
 
-##Directions
+## Directions
 
 1. Place olive oil, onion, garlic, bay, thyme and salt in a pan over medium heat, ~10 minutes.
 2. Make a well in the pan and add the italian herb mix. Let it get a little toasty (30 seconds), then combine.

@@ -1,8 +1,7 @@
 ---
-layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 1 stick cinnamon
 - 8 dried red chilis
@@ -14,7 +13,7 @@ layout: recipe
 - 2 tsp black peppercorns
 - 1 tsp whole cloves
 
-##Directions
+## Directions
 
 1. Dry-fry the cinnamon stick and red chilis in a heavy-bottomed skillet over low heat, stirring constantly, for 2 minutes.
 2. Add coriander, cumin, cardamom, fennel and black mustard seeds, peppercorns and cloves and dry-fry, stirring and shaking skillet constantly, for 8 minutes, or until they give off their aroma.

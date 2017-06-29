@@ -1,8 +1,7 @@
 ---
-layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - olive oil
 - 1 shallot, minced
@@ -11,7 +10,7 @@ layout: recipe
 - 2 tablespoons fresh thyme, leaves
 - Coarse salt and freshly ground pepper
 
-##Directions
+## Directions
 
 1. Place olive oil, garlic, and shallot in the pan over medium-low heat. Let it get aromatic, maybe 5 minutes.
 2. Add mushrooms and thyme and increase heat. Fry until mushrooms release their liquid and it evaporates, 10 to 12 minutes.

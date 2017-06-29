@@ -1,8 +1,7 @@
 ---
-layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
 - 2 eggs, slightly beaten
 - 1 lb pumpkin puree (about 1&frac12; cups)
@@ -13,7 +12,7 @@ layout: recipe
 - &frac12; tsp ginger
 - 1 &#8532; cup evaporated milk or light cream
 
-##Directions
+## Directions
 
 1. Mix ingredients in order given.
 2. Pour into pie shell.

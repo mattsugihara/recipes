@@ -1,10 +1,9 @@
 ---
-layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
-###Sauce
+###  Sauce
 
 - 12-ounce can peeled tomatoes, plus 1/2 cup of the juices
 - 1 jalapeño, with seeds, roughly chopped
@@ -14,7 +13,7 @@ layout: recipe
 - &frac14; cup roughly chopped fresh cilantro
 - Pinch of salt
 
-###Everything else
+###  Everything else
 
 - Tortilla chips
 - Monterey Jack, shredded
@@ -23,7 +22,7 @@ layout: recipe
 - &frac12; bunch cilantro
 - 1 Avocado
 
-##Directions
+## Directions
 
 1. Blend sauce ingredients until smooth.
 2. Heat sauce in a skillet with a bit of oil. Reduce until desired thickness. If necessary, add a bit of sugar to sweeten.

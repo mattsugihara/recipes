@@ -1,8 +1,7 @@
 ---
-layout: recipe
 ---
 
-##Ingredients
+## Ingredients
 
  - 1 packet unflavored gelatin (optional, see note above)
  - 1/2 cup homemade chicken stock or low-sodium broth (optional, see note above)
@@ -22,7 +21,7 @@ layout: recipe
  - 1 pound ground pork (at least 25% fat)
  - 5 cups tomato sauce, such as Quick and Easy Italian American Red Sauce, The Best Slow Cooked Tomato Sauce, or The Best Fresh Tomato Sauce
 
-##Directions
+## Directions
 
 1. In a heatproof measuring cup, sprinkle gelatin all over surface of stock and let stand for 5 minutes (if not using stock and gelatin, proceed to Step 2). Microwave stock, stirring once or twice, until gelatin completely dissolves, about 2 minutes. Pour stock into a wide heatproof bowl and refrigerate until fully set, about 30 minutes.
 
