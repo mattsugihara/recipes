@@ -13,16 +13,16 @@
  - &frac14; tsp salt
  - &frac12; tsp shrimp paste (optional)
 
-## For red curry
+### For red curry
  - 4 dried red chilis
  - 1 tsp chopped finger root
 
-## For yellow curry
+### For yellow curry
 - 4 dried red chilis
 - 1 tsp chopped tumeric
 - 1 tsp yellow curry powder
 
-## For green curry
+### For green curry
  - 4 fresh green chilis
  - 1 tsp chopped finger root
 
