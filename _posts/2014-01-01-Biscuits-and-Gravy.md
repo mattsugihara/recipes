@@ -1,7 +1,6 @@
 ---
 ---
 
-
 ## Ingredients
 
 - 1 lb sausage, casing removed
