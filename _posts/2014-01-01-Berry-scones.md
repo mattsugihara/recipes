@@ -17,6 +17,6 @@
 4. Add cream and combine gently into a single ball. Avoid smashing the berries or it will make the dough wet
 5. Turn out the dough into a floured surface and gently form into a round disk one inch thick
 6. Optionally, brush the tops with an egg wash and finish with coarse sugar
-6. Cut into eighths or tenths, place on a baking sheet, and bake at 400&deg;f for 17-19 minutes
+6. Cut into eighths or tenths, place on a baking sheet, and bake at 425&deg;f for 12-15 minutes
 
 **Source:** [America's Test Kitchen by way of Smitten Kitchen](https://smittenkitchen.com/2006/11/dream-a-little-dream-of-scone/)
