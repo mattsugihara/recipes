@@ -1,4 +1,5 @@
 ---
+categories: Other
 ---
 
 ## Ingredients

@@ -1,4 +1,5 @@
 ---
+categories: Baking
 ---
 
 Makes two loaves
