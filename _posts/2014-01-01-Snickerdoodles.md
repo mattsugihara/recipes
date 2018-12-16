@@ -1,5 +1,5 @@
 ---
-Categories: Baking
+categories: Baking
 ---
 
 ## Ingredients
