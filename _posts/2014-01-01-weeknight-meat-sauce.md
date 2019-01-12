@@ -23,7 +23,7 @@ categories: Pasta
 1. Make the mirepoix
 2. Melt butter in a dutch oven, then add mirepoix. Let it get happy, then add tomato paste.
 3. Add meat and mushrooms, let cook until moisture has evaporated and it starts to sizzle, about 10 minutes 
-4. crush the mushrooms by hand or in a food processor until in half-inch chunks
+4. Crush the tomatoes by hand or in a food processor until in half-inch chunks
 5. Add tomatoes and juice and bring to a boil. Reduce to a simmer and let cook until thickened, about 30 minutes.
 6. Stir in fish sauce, cheese, adjust salt and pepper
 7. Cook pasta (reserve some pasta water to thin sauce as necessary)
