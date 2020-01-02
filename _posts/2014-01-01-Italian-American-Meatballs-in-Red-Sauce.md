@@ -5,13 +5,13 @@ categories: Mains
 ## Ingredients
 
  - 1 packet unflavored gelatin (optional, see note above)
- - 1/2 cup homemade chicken stock or low-sodium broth (optional, see note above)
- - 4 ounces fresh white bread, crusts removed and bread cut into 1/2-inch cubes (about 2 unpacked cups)
+ - &frac12; cup homemade chicken stock or low-sodium broth (optional, see note above)
+ - 4 ounces fresh white bread, crusts removed and bread cut into &frac12;-inch cubes (about 2 unpacked cups)
  - 1/3 cup buttermilk, plus more as needed
  - 1 medium onion, minced
  - 8 cloves garlic, finely minced
  - 2 ounces grated Parmigiano-Reggiano, grated, plus more for serving.
- - 1/2 cup loosely packed fresh parsley leaves, minced
+ - &frac12; cup loosely packed fresh parsley leaves, minced
  - 4 teaspoons kosher salt (18 grams; see note above)
  - Freshly ground black pepper
  - 3 ounces fatty pancetta, finely minced (see note above)

@@ -5,17 +5,17 @@ categories: Soups
 ## Ingredients
 
 - 8 slices center-cut bacon, chopped and divided
-- 1/2 small onion
+- &frac12; small onion
 - 1 celery stalk, chopped
 - 2 garlic cloves, minced
 - salt & pepper
-- 4 cups shredded or grated cauliflower (1/2 large head)
+- 4 cups shredded or grated cauliflower (&frac12; large head)
 - 2 Tablespoons water
 - 2 Tablespoons gluten-free or all-purpose flour
 - 2 cups chicken broth, divided
 - 2 cups milk
 - 3-4 dashes hot sauce
-- 2-1/2 cups (12oz) shredded sharp cheddar cheese, divided
+- 2-&frac12; cups (12oz) shredded sharp cheddar cheese, divided
 - 2 green onions, chopped
 
 ## Directions

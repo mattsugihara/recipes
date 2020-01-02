@@ -6,7 +6,7 @@ categories: Breakfast
 
 ###  Sauce
 
-- 12-ounce can peeled tomatoes, plus 1/2 cup of the juices
+- 12-ounce can peeled tomatoes, plus &frac12; cup of the juices
 - 1 jalapeño, with seeds, roughly chopped
 - 1 small white onion, chopped
 - 2 chiles in adobo (or just the whole small can)

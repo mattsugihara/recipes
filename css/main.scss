@@ -8,85 +8,105 @@
 $blue: #1974d1;
 $body-text: #444;
 
-*{
-	padding:0;
-	margin:0;
-	box-sizing:border-box;
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
 }
 
-body{
+body {
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 1.5;
-	color:$body-text;
+	color: $body-text;
 	font-family: "Anonymous Pro", "Courier New", sans-serif;
 }
 
-a{
+a {
 	text-decoration: none;
 	color: $blue;
 }
 
-a:hover{
+a:hover {
 	text-decoration: underline;
 }
 
-ul,ol{
-	margin-left:2rem;
+ol {
+	margin-left: 2rem;
 
-	li{
+	li {
 		margin-bottom: .5rem;
 	}
 }
 
-h1,h2,ol,ul,p{
+ul {
+	list-style-type: none;
+
+	li {
+		margin-left: 2rem;
+		position: relative;
+	
+		&:before {
+			content: "-";
+			position: absolute;
+			left: -2rem;
+		}
+	}
+}
+
+
+h1,h2,ol,ul,p {
 	padding-bottom: 1rem;
 }
 
-img{
+img {
 	max-width: 100%;
 }
 
-strike{
+strike {
 	display: inline;	
 }
 
-.wrapper{
+.wrapper {
 	max-width: 45rem;
-	padding:0 1rem;
-	margin:0 auto;
+	padding: 0 1rem;
+	margin: 0 auto;
 }
 
-.recipe-list{
+.recipe-list {
 	list-style: none;
-	margin-left:0;
+	margin-left: 0;
 
-	a{
-		color:$body-text;
+	a {
+		color: $body-text;
 		display: block;
 		padding: .5rem;
 		margin-left: -.5rem;
 		border-radius: 2px;
 		transition: all .25s ease;
 
-		&:hover{
-			color:$blue;
+		&:hover {
+			color: $blue;
 			text-decoration: none;
 			background: #EEEEEE;
 		}
 	}
 
-	li{
+	li {
 		margin: 0;
+
+		&:before {
+			content: none;
+		}
 	}
 }
 
-.back-link{
+.back-link {
 	display: block;
-	padding:1rem;
+	padding: 1rem;
 
-	&:hover{
-		color:#FFF;
+	&:hover {
+		color: #FFF;
 		background: $blue;
 		text-decoration: none;
 	}

@@ -5,8 +5,8 @@ categories: Salads
 ## Ingredients
 
 - 8 medium-size beets, tops removed and scrubbed
-- 1/2 cup balsamic vinegar
-- 1/2 cup good olive oil
+- &frac12; cup balsamic vinegar
+- &frac12; cup good olive oil
 - 2 teaspoons Dijon mustard, such as Grey Poupon
 - Kosher salt and freshly ground black pepper
 - 4 ounces baby arugula

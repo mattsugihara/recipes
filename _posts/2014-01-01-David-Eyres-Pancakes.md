@@ -6,7 +6,7 @@ categories: Breakfast
 
 - 2 tablespoons unsalted butter
 - 1/3 cup all-purpose flour
-- 1/2 cup whole milk
+- &frac12; cup whole milk
 - 2 large eggs, lightly beaten
 - Pinch of freshly grated nutmeg
 - Dash of Vanilla

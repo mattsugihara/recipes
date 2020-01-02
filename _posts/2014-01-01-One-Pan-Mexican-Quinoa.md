@@ -13,7 +13,7 @@ categories: Mains
 - 1 (14.5 oz) can fire-roasted diced tomatoes
 - 1 cup corn kernels
 - 1 teaspoon chili powder
-- 1/2 teaspoon cumin
+- &frac12; teaspoon cumin
 - Kosher salt and freshly ground black pepper, to taste
 - 1 avocado, halved, seeded, peeled and diced
 - Juice of 1 lime

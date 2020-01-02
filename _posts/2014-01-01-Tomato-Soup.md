@@ -5,7 +5,7 @@ categories: Soups
 ## Ingredients
 
 - 3 tablespoons olive oil
-- 1 1/2 cups chopped red onions (2 onions)
+- 1 &frac12; cups chopped red onions (2 onions)
 - 1 carrots, unpeeled and chopped
 - 1 tablespoon minced garlic (3 cloves)
 - 4 pounds vine-ripened tomatoes, coarsely chopped (5 large)

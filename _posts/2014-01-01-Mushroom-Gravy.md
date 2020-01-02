@@ -9,10 +9,10 @@ categories: Other
 - 2 tablespoons unsalted butter
 - 1 onion, chopped fine
 - 1 tablespoon soy sauce
-- 1/2 cup dry red wine
+- &frac12; cup dry red wine
 - 1 tablespoon balsamic vinegar
-- 1 tablespoon cornstarch dissolved in 1 1/2 cups cold water
-- 1/2 teaspoon sugar
+- 1 tablespoon cornstarch dissolved in 1 &frac12; cups cold water
+- &frac12; teaspoon sugar
 - 2 tablespoons finely chopped fresh parsley leaves
 
 ## Directions

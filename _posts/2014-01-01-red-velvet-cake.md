@@ -17,7 +17,7 @@ categories: Desserts
 - 2 large eggs
 - 2 large egg yolks
 - 1 &frac12; teaspoons pure vanilla extract
-- 1 tablespoon red food coloring (1/2 ounce)
+- 1 tablespoon red food coloring (&frac12; ounce)
 - &frac34; cup boiling water
  
 ## Cream Cheese Buttercream
@@ -39,7 +39,7 @@ categories: Desserts
 5. Divide the batter equally among the prepared pans and bake until a wooden pick inserted into the center comes out clean, 25 to 30 minutes. Let the cakes cool in the pans for 15 minutes before turning them out onto wire racks to cool completely. Remove the parchment paper.
 
 ## For the Frosting
-1. In a small saucepan over medium-high heat, bring the grape juice to a boil. Continue to boil until reduced to 1/2 cup. Cool to room temperature.
+1. In a small saucepan over medium-high heat, bring the grape juice to a boil. Continue to boil until reduced to &frac12; cup. Cool to room temperature.
 7. Meanwhile, in the bowl of a stand mixer fitted with a whisk attachment, whisk the cream cheese on medium speed until light and fluffy, about 3 minutes.
 8. Replace the whisk attachment with the paddle attachment and beat the butter into the cream cheese on medium speed, scraping the bowl as necessary, until light and fluffy. Increase the mixer speed to medium-high and beat until pale yellow and almost doubled in volume, scraping the bowl as necessary, about 4 minutes.
 9. In another bowl of a stand mixer fitted with the whisk attachment, whisk the egg yolks on high speed until thick and a pale yellow, about 3 minutes.
