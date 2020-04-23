@@ -1,6 +1,6 @@
 ---
-caregory: baking
-—--
+category: baking
+---
 
 ## Ingredients
 - 2 cups all purpose flour
