@@ -1,5 +1,5 @@
 ---
-categories: Desserts
+categories: Dessert
 ---
 ## Ingredients
  - 4 ounces fine-quality bittersweet chocolate (not unsweetened)

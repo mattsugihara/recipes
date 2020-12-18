@@ -1,5 +1,5 @@
 ---
-categories: Salads
+categories: Salad
 ---
 
 ## Ingredients

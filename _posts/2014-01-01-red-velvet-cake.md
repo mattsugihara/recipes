@@ -1,5 +1,5 @@
 ---
-categories: Desserts
+categories: Dessert
 ---
 
 ## Cake Ingredients

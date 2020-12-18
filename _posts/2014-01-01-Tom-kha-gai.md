@@ -1,5 +1,5 @@
 ---
-categories: Soups
+categories: Soup
 ---
 ## Ingredients
  - 2 cups coconut milk

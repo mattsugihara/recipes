@@ -1,6 +1,6 @@
 ---
 title: <s>Mac</s> Cauliflower n' Cheese
-categories: Veggies
+categories: Veggie
 ---
 
 ## Ingredients

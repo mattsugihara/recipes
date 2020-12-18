@@ -1,5 +1,5 @@
 ---
-categories: Soups
+categories: Soup
 ---
 
 ## Ingredients

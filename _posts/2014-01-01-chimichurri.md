@@ -1,5 +1,5 @@
 ---
-caregory: sauces
+caregory: Sauce
 ---
 
 ## Ingredients

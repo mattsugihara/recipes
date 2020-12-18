@@ -1,5 +1,5 @@
 ---
-categories: Veggies
+categories: Veggie
 ---
 
 ## Ingredients

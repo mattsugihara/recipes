@@ -1,5 +1,5 @@
 ---
-categories: Mains
+categories: Main
 ---
 
 ## Ingredients
