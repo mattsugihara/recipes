@@ -3,6 +3,7 @@ categories: Dessert
 ---
 
 ## Ingredients
+
 - 5 egg yolks
 - 2 cups heavy cream
 - &frac12; teaspoon salt
@@ -10,6 +11,7 @@ categories: Dessert
 - vanilla bean
 
 ## Directions
+
 1. Combine heavy cream, salt, and vanilla in a medium sauce pan and heat it
 2. Whisk together egg yolks and sugar
 3. Add one cup of cream mixture to egg yolks and sugar, then stir the egg mixture into the cream.

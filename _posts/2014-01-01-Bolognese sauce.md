@@ -35,6 +35,7 @@ categories: Pasta
  - salt and pepper
 
 ## Directions
+
 1. Combine chicken livers, anchovies, marmite and soy sauce in the bowl of a food processor and blend until smooth.
 2. In a separate bowl, combine milk, cream, chicken stock and gelatin, and set aside
 3. Heat 2 tablespoons olive oil in a saucepan over medium high heat. Add garlic, oregano, and pepper flakes until fragrant (about one minute).

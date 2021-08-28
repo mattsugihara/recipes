@@ -1,7 +1,9 @@
 ---
 categories: Dessert
 ---
+
 ## Ingredients
+
  - 4 ounces fine-quality bittersweet chocolate (not unsweetened)
  - 1 stick unsalted butter
  - &frac34; cup sugar
@@ -9,6 +11,7 @@ categories: Dessert
  - &frac12; cup unsweetened cocoa powder plus additional for sprinkling
 
 ## Directions
+
 1. Preheat oven to 375&deg;f
 2. Butter an 8" baking pan, ideally springform. If not, line the bottom with parchment or wax paper and butter that
 3. Melt and combine the chocolate and butter.

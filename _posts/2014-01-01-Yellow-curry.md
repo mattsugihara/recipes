@@ -3,6 +3,7 @@ categories: Main
 ---
 
 ## Ingredients
+
  - 2 Tbsp [yello curry paste](http://mtsugi.github.io/recipes/curry-paste)
  - &frac12; cup coconut cream
  - 1 cup coconut milk
@@ -14,6 +15,7 @@ categories: Main
  - 100g chicken, sliced
 
 ## Directions
+
 1. In a sauce pan, bring the coconut milk to a boil and add curry paste
 2. Add chicken and cook until almost done.
 3. Add coconut milk and bring back to a boil

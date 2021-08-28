@@ -3,6 +3,7 @@ categories: Pasta
 ---
 
 ## Ingredients
+
  - 1 small onion, quartered
  - 1 small carrot, peeled
  - 1 stalk celery
@@ -20,6 +21,7 @@ categories: Pasta
  - Parmasean
 
 ## Directions
+
 1. Make the mirepoix
 2. Melt butter in a dutch oven, then add mirepoix. Let it get happy, then add tomato paste.
 3. Add meat and mushrooms, let cook until moisture has evaporated and it starts to sizzle, about 10 minutes 

@@ -3,6 +3,7 @@ categories: Breakfast
 ---
 
 ## Ingredients
+
 - 2 cups all purpose flour
 - 3 tablespoons sugar
 - 1 tablespoon baking powder
@@ -13,6 +14,7 @@ categories: Breakfast
 - 1 cup cream
 
 ## Directions
+
 1. Combine dry ingredients
 2. Cut the butter into small pieces and work it into the dry ingredients until the largest piece is pea sized
 3. Add berries

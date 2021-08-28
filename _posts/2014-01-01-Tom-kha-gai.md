@@ -1,7 +1,9 @@
 ---
 categories: Soup
 ---
+
 ## Ingredients
+
  - 2 cups coconut milk
  - &frac12; straw or oyster mushrooms
  - 1 stalk lemongrass, slightly crushed and in 3cm chunks
@@ -17,6 +19,7 @@ categories: Soup
  - 1 Tbsp chopped cilantro
 
 ## Directions
+
 1. In a sauce pan over medium heat, heat the coconut milk, lemongrass, glangal, and onion
 2. When boiling, add chicken and heat until cooked
 3. Add mushrooms and tomatoes.

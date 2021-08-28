@@ -3,6 +3,7 @@ categories: Dessert
 —--
 
 ## Ingredients
+
 - 2 cups flour + 2 table spoons
 - 1 teaspoon baking soda
 - 2 teaspoons corn starch
@@ -15,6 +16,7 @@ categories: Dessert
 - 1 &frac12; cup chocolate chips
 
 ## Directions
+
 1. Combine flour, salt, cornstarch, and baking soda and set aside
 2. In a separate born, beat butter and sugar for one minute
 3. Add eggs and vanilla, and beat until just combined

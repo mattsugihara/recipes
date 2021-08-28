@@ -1,4 +1,5 @@
 ---
+categories: Dinner
 ---
 
 ## Ingredients
@@ -19,7 +20,7 @@
  - 1 pound cremini mushrooms, stemmed and caps cut into quarters
  - 8 ounces pearl onions
 
-## Instructions
+## Directions
 
 1. Preheat oven to 275&deg; (or 300&deg; if your oven is unreliable at 275&deg;)
 2. Disolve gelatine into chicken stock, adding one packet at a time. Set aside.

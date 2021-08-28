@@ -16,7 +16,7 @@ categories: Main
 - 6 six minute eggs
 - canola oil (for frying)
 
-##Garnish
+## Garnish
 
 - grainy mustard
 - cornishons

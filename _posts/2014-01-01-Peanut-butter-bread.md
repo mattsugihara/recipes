@@ -1,8 +1,9 @@
 ---
-category: Baking
+categories: Baking
 ---
 
 ## Ingredients
+
 - 2 cups all purpose flour
 - &frac14; sugar
 - 4 teaspoons baking powder
@@ -11,6 +12,7 @@ category: Baking
 - &frac12; cup peanut butter (plus a bit extra)
 
 ## Directions
+
 1. Preheat oven to 325&deg;f
 2. Combine dry ingredients
 3. Mix in milk

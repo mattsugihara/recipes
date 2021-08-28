@@ -1,8 +1,9 @@
 ---
-categories: Other
+categories: Sauce
 ---
 
 ## Ingredients
+
 - &frac12; cup fresh lemon juice
 - 2 teaspoons finely grated fresh lemon zest
 - &frac12; cup sugar
@@ -11,6 +12,7 @@ categories: Other
 - &frac18; teaspoon salt
 
 ## Directions
+
 1. Melt butter over *very low* heat.
 2. Muddle sugar and lemon zest, then add lemon juice and eggs.
 3. Add sugar mixture to butter. Increase temperature to low, and whisk frequently until thick (about 170&deg;f)

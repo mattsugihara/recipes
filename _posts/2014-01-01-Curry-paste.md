@@ -3,6 +3,7 @@ categories: Other
 ---
 
 ## Ingredients
+
  - 1 Tbsp chopped lemongrass
  - 1 Tbsp chopped shallot
  - 1 tsp chopped galangal
@@ -29,6 +30,7 @@ categories: Other
 
 
 ## Directions
+
 1. Using a mortar and pestle, grind all the seeds into a powder
 2. Add everything except the shrimp paste and grind until smooth
 3. Add shrimp paste and combine thoroughly

@@ -3,6 +3,7 @@ categories: Main
 ---
 
 ## Ingredients
+
  - 2 Tbsp [green curry paste](http://mtsugi.github.io/recipes/curry-paste)
  - &frac12; cup coconut cream
  - 1 cup coconut milk
@@ -17,6 +18,7 @@ categories: Main
  - 1 Tbsp fish sauce
 
 ## Directions
+
 1. Heat and reduce the coconut cream over medium heat.
 2. When it comes to a boil, add curry paste and stir to combine
 3. Add chicken and cook until almost done.

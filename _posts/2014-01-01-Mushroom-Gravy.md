@@ -1,5 +1,5 @@
 ---
-categories: Other
+categories: Sauce
 ---
 
 ## Ingredients

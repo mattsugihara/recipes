@@ -3,6 +3,7 @@ categories: Breakfast
 ---
 
 ## Ingredients
+
  - 1 cup all-purpose flour
  - &frac12; teaspoon baking powder
  - 1 &frac12; tablespoons granulated sugar
@@ -15,6 +16,7 @@ categories: Breakfast
  - Butter, for cooking
 
 ## Directions
+
 1. Whisk together the dry ingredients.
 2. Combine ricotta, egg yolks, and vanilla.
 3. Combine wet and dry ingredients.

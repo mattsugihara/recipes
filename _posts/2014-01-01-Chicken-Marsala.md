@@ -2,7 +2,6 @@
 categories: Main
 ---
 
-
 ## Ingredients
 
  - 2 &frac12; pounds chicken (either boneless breasts or thighs)

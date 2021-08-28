@@ -3,6 +3,7 @@ categories: Main
 ---
 
 ## Ingredients
+
  - 100g minced protein (chicken, basil, or even eggplant work well)
  - &frac14; cup finly chopped long bean
  - 2 stalks baby corn
@@ -16,6 +17,7 @@ categories: Main
  - &frac14; water or chicken stock
 
 ## Directions
+
 1. Heat the oil in a wok over medium heat
 2. Add garlic and chili. Fry until fragrant
 3. Add protein and fry until cooked

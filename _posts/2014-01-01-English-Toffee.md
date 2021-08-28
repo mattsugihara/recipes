@@ -1,8 +1,9 @@
 ---
-category: Dessert
+categories: Dessert
 ---
 
 ## Ingredients
+
  - 4 cups (approx. 2 lb.) whole almonds
  - 2 cups (1 lb.) salted butter
  - 3 cups white sugar

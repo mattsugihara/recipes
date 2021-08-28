@@ -1,5 +1,5 @@
 ---
-Categories: Breakfast
+categories: Breakfast
 ---
 
 ## Ingredients

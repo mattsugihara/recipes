@@ -3,6 +3,7 @@ categories: Main
 ---
 
 ## Ingredients
+
  - 2 Tbsp [red curry paste](http://mtsugi.github.io/recipes/curry-paste)
  - 2 cups water or chicken stock
  - 100g chicken, sliced
@@ -17,6 +18,7 @@ categories: Main
 
 
 ## Directions
+
 1. Heat oil in a sauce pan. Add chili paste and fry until fragrant
 2. Add chick and cook until almost done.
 3. Add water/stock and bring to a boil

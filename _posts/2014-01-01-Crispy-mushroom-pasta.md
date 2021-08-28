@@ -1,5 +1,5 @@
 ---
-category: Pasta
+categories: Pasta
 ---
 
 ## Ingredients
