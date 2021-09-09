@@ -1,5 +1,6 @@
 ---
 categories: Dessert
+title: "Kay's Fudge"
 ---
 
 ## Ingredients
@@ -22,4 +23,4 @@ categories: Dessert
 
 source: this tombstone
 
-![](http://i.imgur.com/3LyNjuk.png)
+![A photo of tombstone with the title "Kay's fudge" and the recipe](http://i.imgur.com/3LyNjuk.png)

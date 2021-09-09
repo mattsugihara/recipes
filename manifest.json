@@ -1,0 +1,8 @@
+{
+  "name": "Recipes",
+  "short_name": "Recipes",
+  "description": "Improbably, easier than recipe cards",
+  "start_url": "/recipes/",
+  "scope": "/recipes/",
+  "display": "Browser"
+}

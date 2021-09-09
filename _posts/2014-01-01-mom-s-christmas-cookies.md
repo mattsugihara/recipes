@@ -1,5 +1,6 @@
 ---
 categories: Baking
+title: "Mom's christmas cookies"
 ---
 
 ## Ingredients
