@@ -14,11 +14,11 @@ categories: Baking
 
 - 1 egg, lighly beaten
 - 1 cup milk
-- &#8531; cup melted butter
+- &frac13; cup melted butter
 	
 ## Directions
 
-1. Preheat oven to 400&#176;F
+1. Preheat oven to 400°F
 2. Combine the dry ingredients.
 3. Separately, mix the wet ingredients together. Stir the wet into the dry until just blended.
 4. Bake in a loaf pan for 20-25 minutes

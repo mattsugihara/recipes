@@ -23,4 +23,4 @@ title: "Kay's Fudge"
 
 source: this tombstone
 
-![A photo of tombstone with the title "Kay's fudge" and the recipe](http://i.imgur.com/3LyNjuk.png)
+![A photo of tombstone with the title "Kay's fudge", the recipe, and the epitaph, "Wherever she goes, there is laughter"](https://i.imgur.com/3LyNjuk.png)

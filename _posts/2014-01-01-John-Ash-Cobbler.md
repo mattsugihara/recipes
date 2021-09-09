@@ -17,4 +17,4 @@ categories: Dessert
 1. Mix the dry ingredients
 2. Cut the butter into &frac14; inch cubes.
 3. Mix into a coarse meal
-4. Spread over the top of the fruit in a 13x9 pan. Bake at 375&#176; for 35 minutes.
+4. Spread over the top of the fruit in a 13x9 pan. Bake at 375° for 35 minutes.

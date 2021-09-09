@@ -21,7 +21,7 @@ categories: Main
 3. Add the remaining butter, parsley, &frac12; teaspoon each salt and pepper, and combine thoroughly.
 4. Place on a piece of plastic wrap, roll into a log, and refrigerate until firm.
 5. Preheat oven to 400&deg;F
-6. Horizontally slice through the top and bottom &#8531; of each chicken breast to form a pouch.
+6. Horizontally slice through the top and bottom &frac13; of each chicken breast to form a pouch.
 7. Divide the butter four ways and stuff each breast
 8. Dredge the top of each breast in flour, egg, then bread crumbs.
 9. Place the olive oil in a large, oven-proof, skillet over medium high heat and place the chicken breasts, breadcrumbs down, into the pan.

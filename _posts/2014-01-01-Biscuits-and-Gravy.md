@@ -5,7 +5,7 @@ categories: Breakfast
 ## Ingredients
 
 - 1 lb sausage, casing removed
-- &#8531; cup flour
+- &frac13; cup flour
 - 3 to 4 cups milk
 
 ## Directions

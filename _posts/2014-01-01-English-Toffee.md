@@ -20,5 +20,6 @@ categories: Dessert
 5. Sprinkle chocolate pieces evenly over top of candy and spread as chocolate melts. Immediately sprinkle with remaining almonds. Lightly press nuts down into the chocolate with a clean, heatproof rubber spatula. Let stand for about 10-20 minutes,  until cool and set. Give pan a slight twist to "pop" candy loose and, working quickly, break toffee into pieces of desired size.
 6. Store in airtight container, at the cool side of room temperature or in the refrigerator.
         
-*According to candy-making blogger "Sarah," even over-stirring can cause separation. Her suggestion, which seems to have worked for me: Stir constantly until mixture reaches 212°F, then stop stirring until it reaches 236°F; resume stirring until mixture reaches 290°F. Sarah was silent as to what to do between 290 and 300°F, so I just kept stirring, slowly. 
+*According to candy-making blogger "Sarah," even over-stirring can cause separation. Her suggestion, which seems to have worked for me: Stir constantly until mixture reaches 212°F, then stop stirring until it reaches 236°F; resume stirring until mixture reaches 290°F. Sarah was silent as to what to do between 290 and 300°F, so I just kept stirring, slowly.
+
 **Source:** my mom

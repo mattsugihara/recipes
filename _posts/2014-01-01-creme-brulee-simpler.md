@@ -1,5 +1,6 @@
 ---
 categories: Dessert
+title: "Simpler Creme Brûlée"
 ---
 
 ## Ingredients
