@@ -1,5 +1,5 @@
 ---
-categories: Dinner
+categories: Mains
 ---
 
 ## Ingredients

@@ -1,6 +1,6 @@
 ---
-category: soup
-title: “Summer corn chowder”
+category: Soup
+title: Summer corn chowder
 ---
 
 Makes six servings
