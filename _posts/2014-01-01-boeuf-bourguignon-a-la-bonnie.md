@@ -1,5 +1,5 @@
 ---
-categories: Mains
+categories: Main
 ---
 
 ## Ingredients
@@ -36,3 +36,5 @@ categories: Mains
 12. Remove dutch oven from the oven. Discard split carrots and onions. Skim off fat.
 13. Add the lardons, diced carrots, mushrooms, onions.
 14. Return the dutch oven to the oven for 30 minutes uncovered.
+
+**Source:** Bonnie
