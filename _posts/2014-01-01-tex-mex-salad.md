@@ -1,5 +1,5 @@
 ---
-categories: Dessert
+categories: Salad
 ---
 
 ## Ingredients
