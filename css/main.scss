@@ -7,6 +7,9 @@
 
 $blue: #1974d1;
 $body-text: #444;
+$medium-grey: #eee;
+
+$body-font-size: 18px;
 
 * {
   padding: 0;
@@ -15,7 +18,7 @@ $body-text: #444;
 }
 
 body {
-  font-size: 18px;
+  font-size: $body-font-size;
   font-weight: 400;
   line-height: 1.5;
   color: $body-text;
@@ -67,6 +70,33 @@ strike {
   display: inline;  
 }
 
+.search {
+  padding: 8px 0;
+  position: relative;
+
+  label {
+    position: absolute;
+    top: 18.5px;
+    left: 8px;
+    pointer-events: none;
+  }
+}
+
+.no-show {
+  opacity: 0;
+}
+
+#search-box {
+  width: 100%;
+  height: 48px;
+  border: 0;
+  background-color: $medium-grey;
+  border-radius: 8px;
+  font-size: inherit;
+  font-family: inherit;
+  padding: 0 8px;
+}
+
 .wrapper {
   max-width: 45rem;
   padding: 0 1rem;
@@ -77,7 +107,7 @@ strike {
   list-style: none;
   margin-left: 0;
 
-  a {
+  .recipe-name {
     color: $body-text;
     display: block;
     padding: .5rem 1rem;
@@ -88,7 +118,7 @@ strike {
     &:hover {
       color: $blue;
       text-decoration: none;
-      background: #EEEEEE;
+      background: $medium-grey;
     }
   }
 
@@ -110,4 +140,8 @@ strike {
     background: $blue;
     text-decoration: none;
   }
+}
+
+.hidden {
+  display: none !important;
 }
