@@ -2,31 +2,34 @@
 layout: default
 ---
 <div class="wrapper">
-	<div class="search">
-		<label for="search-box" id="search-box-label">Search</label>
-		<input type="text"
-		       id="search-box"
-		       aria-label="Search">
-	</div>
-	<h1>Improbably, easier than recipe cards</h1>
-	{% for category in site.categories %}
-	{% capture category_name %}{{ category | first }}{% endcapture %}
-	<div class="category">
-		<h2>
-			{{ category_name }}
-		</h2>
-		<ul class="recipe-list">
-			{% for post in site.categories[category_name] %}
-			<li>
-				<a href="{{ site.baseurl }}{{ post.url }}"
-				   class="recipe-name">
-				  {{ post.title  | capitalize }}
-				</a>
-			</li>
-			{% endfor %}
-		</ul>
-	</div>
-	{% endfor %}
+  <div class="search">
+    <label for="search-box" id="search-box-label">Search</label>
+    <input type="text"
+           id="search-box"
+           aria-label="Search">
+  </div>
+  <h1>Improbably, easier than recipe cards</h1>
+  {% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <div class="category">
+    <h2>
+      {{ category_name }}
+    </h2>
+    <ul class="recipe-list">
+      {% for post in site.categories[category_name] %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}"
+           class="recipe-card">
+          <img src="https://placekitten.com/g/154/100" alt="">
+          <div class="recipe-name">
+            {{ post.title  | capitalize }}
+          </div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
 </div>
 <script type="text/javascript"
         src="search.js"></script>

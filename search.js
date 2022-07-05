@@ -30,7 +30,7 @@ function cleanUpHeaders() {
 // it. If the recipe title does not contain the search query, the recipe is
 // hidden
 function search() {
-	let recipes = document.querySelectorAll('.recipe-name');
+	let recipes = document.querySelectorAll('.recipe-list li');
 	let search_query = search_box.value.toLowerCase();
 	let search_box_label = document.getElementById('search-box-label');
 
