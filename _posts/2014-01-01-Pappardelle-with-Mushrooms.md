@@ -17,4 +17,4 @@ categories: Pasta
 2. Add mushrooms and thyme and increase heat. Fry until mushrooms release their liquid and it evaporates, 10 to 12 minutes.
 3. Season with salt and pepper.
 
-Inspired By: [Peter Lowell's](http://peterlowells.com/) in Sebastopol, CA
+Inspired By: Peter Lowell's in Sebastopol, CA. Closed in 2019
