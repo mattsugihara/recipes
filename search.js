@@ -4,12 +4,14 @@ setTimeout(function() {
 	window.scroll(0, 64);
 }, 50);
 
-let search_box = document.getElementById('search-box');
+const recipes = document.querySelectorAll('.recipe-list li');
+const search_box = document.getElementById('search-box');
+const search_box_label = document.getElementById('search-box-label');
 
 // Checks each category to determine whether all recipes in that category have
 // been hidden. If they have, this hides the containing div.
 function cleanUpHeaders() {
-	let divs = document.querySelectorAll('.category');
+	const divs = document.querySelectorAll('.category');
 
 	for (var i = 0; i < divs.length; i++) {
 		let numberOfRecipes =
@@ -30,16 +32,17 @@ function cleanUpHeaders() {
 // it. If the recipe title does not contain the search query, the recipe is
 // hidden
 function search() {
-	let recipes = document.querySelectorAll('.recipe-list li');
 	let search_query = search_box.value.toLowerCase();
-	let search_box_label = document.getElementById('search-box-label');
 
+  // Makes search box label invisible if the user has entered text
 	if (search_query.length <= 0) {
-		search_box_label.classList.remove('no-show');
+		search_box_label.classList.remove('invisible');
 	} else {
-		search_box_label.classList.add('no-show');
+		search_box_label.classList.add('invisible');
 	}
 
+	// Compares recipe names against search querery and hides recipes that don't
+	// contain the query
 	for (var i = 0; i < recipes.length; i++) {
 		let recipe_name = recipes[i].textContent.toLowerCase();
 
