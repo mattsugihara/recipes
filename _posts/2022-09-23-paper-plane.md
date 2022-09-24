@@ -12,4 +12,4 @@ category: cocktails
 ## Directions
 
 1. Combine in a shaker
-2. Strain into a coup
+2. Strain into a coupe
