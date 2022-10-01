@@ -1,5 +1,5 @@
 ---
-category: cocktail
+category: cocktails
 ---
 
 ## Ingredients
