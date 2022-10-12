@@ -8,6 +8,7 @@ categories: Dessert
  - 2 cups finely ground graham crackers (about 30 squares) 
  - 1/2 teaspoon ground cinnamon 
  - 1 stick unsalted butter, melted 
+
 ### Filling
  - 1 pound cream cheese, 2 (8-ounce) blocks, softened 
  - 3 eggs 
