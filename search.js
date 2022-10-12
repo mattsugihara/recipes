@@ -7,6 +7,7 @@ setTimeout(function() {
 const recipes = document.querySelectorAll('.recipe-list li');
 const search_box = document.getElementById('search-box');
 const search_box_label = document.getElementById('search-box-label');
+const clear_button = document.getElementById('clear-button');
 
 // Checks each category to determine whether all recipes in that category have
 // been hidden. If they have, this hides the containing div.
@@ -56,5 +57,14 @@ function search() {
 	cleanUpHeaders();
 }
 
+// Clears the value of the search box, sets focus on the search box, and calls
+// search on the null string in order to show all recipes again
+function clear() {
+	search_box.value = '';
+	search_box.focus();
+	search();
+}
+
 search_box.addEventListener('change',search)
 search_box.addEventListener('keyup',search)
+clear_button.addEventListener('click',clear)
