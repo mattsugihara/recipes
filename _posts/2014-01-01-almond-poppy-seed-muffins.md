@@ -4,16 +4,16 @@ categories: Breakfast
 
 ## Ingredients
 
- - 1/2 c. butter, softened
- - 3/4 c. sugar
- - 2 lg. eggs
- - 1 1/2 tsp. almond extract
- - 1 1/2 c. flour
- - 1 1/8 tsp. baking powder
- - 1/2 tsp. soda
- - 1/4 tsp. salt
- - 1/2 c. buttermilk
- - 2 1/2 tbsp. poppy seeds
+ - 1/2 cup butter, softened
+ - 3/4 cup sugar
+ - 2 eggs
+ - 1 1/2 cup flour
+ - 1 1/8 teaspoon baking powder
+ - 1/2 teaspoon baking soda
+ - 1/4 teaspoon salt
+ - 1 1/2 teaspoon almond extract
+ - 1/2 cup buttermilk
+ - 2 1/2 tablespoons poppy seeds
 
 ## Directions
 
