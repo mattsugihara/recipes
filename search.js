@@ -1,9 +1,3 @@
-// Scolls the page down 64px to hide the search box
-// Delayed by 50ms to ensure the DOM is in place by the time the event fires
-setTimeout(function() {
-	window.scroll(0, 64);
-}, 50);
-
 const recipes = document.querySelectorAll('.recipe-list li');
 const search_box = document.getElementById('search-box');
 const search_box_label = document.getElementById('search-box-label');

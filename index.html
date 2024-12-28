@@ -2,6 +2,7 @@
 layout: default
 ---
 <div class="wrapper">
+  <h1>Improbably, easier than recipe cards</h1>
   <div class="search">
     <label for="search-box" id="search-box-label">Search</label>
     <input type="text"
@@ -9,7 +10,6 @@ layout: default
            aria-label="Search">
     <button id="clear-button" aria-label="Clear search">✖️</button>
   </div>
-  <h1>Improbably, easier than recipe cards</h1>
   <div class="recipe-box" aria-live="polite">
     {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
