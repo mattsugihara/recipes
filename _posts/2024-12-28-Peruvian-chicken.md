@@ -24,7 +24,6 @@ categories: Main
  - ¼ cup sour cream
  - Juice from 1 lime (~1 tablespoon)
  - ½ teaspoon salt
-- 
 
 ## Directions
 
