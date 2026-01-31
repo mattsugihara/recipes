@@ -1,9 +1,21 @@
 ---
 layout: default
 ---
+
+{% comment %} This wonderfully hacky solution looks for the "directions" h2
+element and splits the recipe into two separate blobs. Each blob is then placed
+in a separate section {% endcomment %} {% assign parts = content | split: '
+<h2 id="directions">Directions</h2>
+' %}
 <a class="back-link" href="{{ site.baseurl }}/">&#8249; Recipe list</a>
 
-<div class="wrapper recipe">
-	<h1>{{page.title}}</h1>
-	{{ content }}
+<div class="wrapper">
+  <h1>{{page.title}}</h1>
+  <div class="recipe">
+    <section class="ingredients">{{ parts[0] }}</section>
+    <section class="directions">
+      <h2 id="directions">Directions</h2>
+      {{ parts[1] }}
+    </section>
+  </div>
 </div>

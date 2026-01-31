@@ -1,0 +1,46 @@
+@use "base";
+
+.recipe {
+  ol,
+  ul {
+    margin-left: 2rem;
+  }
+
+  li {
+    padding-bottom: 0.75rem;
+  }
+
+  ul li {
+    list-style-type: none;
+    position: relative;
+
+    &:before {
+      content: "-";
+      position: absolute;
+      left: -1.5rem;
+    }
+  }
+
+  a {
+    color: base.$blue;
+  }
+}
+
+.back-link {
+  display: block;
+  padding: 1rem;
+  text-decoration: none;
+
+  &:hover {
+    color: #fff;
+    background: base.$blue;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  .recipe {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 1.5rem;
+  }
+}
