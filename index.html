@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: recipe-list
 ---
-<div class="wrapper">
   <h1>Improbably, easier than recipe cards</h1>
   <div class="search">
     <label for="search-box" id="search-box-label">Search</label>
@@ -20,12 +19,8 @@ layout: default
       <ul class="recipe-list">
         {% for post in site.categories[category_name] %}
         <li>
-          <a href="{{ site.baseurl }}{{ post.url }}"
-             class="recipe-card">
-            <img src="https://placekitten.com/164/100" alt="">
-            <div class="recipe-name">
+          <a href="{{ site.baseurl }}{{ post.url }}" class="recipe-card">
               {{ post.title  | capitalize }}
-            </div>
           </a>
         </li>
         {% endfor %}
@@ -33,6 +28,4 @@ layout: default
     </div>
     {% endfor %}
   </div>
-</div>
-<script type="text/javascript"
-        src="search.js"></script>
+<script type="text/javascript" src="search.js"></script>

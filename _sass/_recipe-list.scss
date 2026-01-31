@@ -1,11 +1,18 @@
 @use "base";
+@use "variables";
+
+.recipe-list-wrapper {
+  max-width: 45rem;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
 
 .search {
   margin-bottom: 1rem;
   padding: 0;
   position: relative;
   display: flex;
-  border-radius: 0.5rem;
+  border-radius: var(--border-radius);
   overflow: hidden;
   background-color: base.$medium-grey;
 
@@ -50,38 +57,18 @@
 
 .recipe-list {
   list-style: none;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  column-gap: 1.5rem;
-  row-gap: 1.5rem;
-}
 
-.recipe-card {
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
-  border-radius: 0.5rem;
-  overflow: hidden;
-  height: 100%;
-  transition: all 200ms ease;
-  box-shadow: base.$basic-box-shadow;
-  text-decoration: none;
-  color: inherit;
+  a {
+    text-decoration: none;
+    padding: 1rem;
+    display: block;
+    margin: 0 -1rem;
+    color: var(--body-text);
+    border-radius: var(--border-radius);
+    transition: all 150ms ease;
 
-  &:hover,
-  &:focus {
-    box-shadow: base.$hover-box-shadow;
-  }
-}
-
-.recipe-name {
-  padding: 1rem;
-  font-weight: 500;
-  font-size: 1.25rem;
-}
-
-@media screen and (min-width: 640px) {
-  .recipe-list {
-    grid-template-columns: repeat(3, 1fr);
+    &:hover {
+      box-shadow: var(--hover-box-shadow);
+    }
   }
 }
