@@ -2,13 +2,7 @@
 layout: recipe-list
 ---
   <h1>Improbably, easier than recipe cards</h1>
-  <div class="search">
-    <label for="search-box" id="search-box-label">Search</label>
-    <input type="text"
-           id="search-box"
-           aria-label="Search">
-    <button id="clear-button" aria-label="Clear search">✖️</button>
-  </div>
+  {% include search.html %}
   <div class="recipe-box" aria-live="polite">
     {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}

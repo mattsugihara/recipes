@@ -1,4 +1,5 @@
 @use "base";
+@use "variables";
 
 .recipe {
   ol,
@@ -22,7 +23,7 @@
   }
 
   a {
-    color: base.$blue;
+    color: var(--blue);
   }
 }
 
@@ -33,7 +34,7 @@
 
   &:hover {
     color: #fff;
-    background: base.$blue;
+    background: var(--blue);
   }
 }
 

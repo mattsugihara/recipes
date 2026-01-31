@@ -16,6 +16,11 @@ baseurl: /recipes
 # Build settings
 markdown: kramdown
 
+sass:
+  load_paths:
+    - _includes
+    - _layouts
+
 # this makes each post use the post layout
 defaults:
  -
