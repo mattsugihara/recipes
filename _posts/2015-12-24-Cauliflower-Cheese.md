@@ -11,7 +11,7 @@ categories: Veggie
 - 2 cups milk
 - 2 cups coarsly grated cheddar or fontina
 - a shot of hot sauce
- 
+
 ## Directions
 
 1. Preheat the broiler

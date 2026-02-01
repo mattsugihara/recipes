@@ -4,17 +4,17 @@ categories: Main
 
 ## Ingredients
 
- - 1 leg of lamb (&frac12; pound bone-in weight per person)
- - &frac34; cup vegetable oil
- - &frac14; cup red wine vinegar
- - &frac12; cup chopped onion
- - 2 cloves garlic, bruised
- - 2 teaspoons dijon mustard
- - 2 teaspoons salt
- - &frac12; teaspoon crumbled dried oregano
- - &frac12; teaspoon crumbled dried basil
- - 1 bay leaf, crushed
- - 1 dash ground black pepper
+- 1 leg of lamb (&frac12; pound bone-in weight per person)
+- &frac34; cup vegetable oil
+- &frac14; cup red wine vinegar
+- &frac12; cup chopped onion
+- 2 cloves garlic, bruised
+- 2 teaspoons dijon mustard
+- 2 teaspoons salt
+- &frac12; teaspoon crumbled dried oregano
+- &frac12; teaspoon crumbled dried basil
+- 1 bay leaf, crushed
+- 1 dash ground black pepper
 
 ## Directions
 

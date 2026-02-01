@@ -4,18 +4,18 @@ categories: Baking
 
 ## Ingredients
 
- - 4 eggs (3 yolks, 4 whites)
- - 1+ teaspoon dijon mustard
- - 1 &frac12; tablespoon flour
- - 1 cup milk
- - pinch of cayenne pepper
- - pinch of nutmeg
- - pinch of salt
- - 3 &frac12; oz gruyère or mature comté, grated
- - 2 tabelspoon soft butter for brush
- - 4-6 tablespoon dried bredcurmbs
- - a couple drops of lemon juice
- - 1 teaspoon rosemary, minced
+- 4 eggs (3 yolks, 4 whites)
+- 1+ teaspoon dijon mustard
+- 1 &frac12; tablespoon flour
+- 1 cup milk
+- pinch of cayenne pepper
+- pinch of nutmeg
+- pinch of salt
+- 3 &frac12; oz gruyère or mature comté, grated
+- 2 tabelspoon soft butter for brush
+- 4-6 tablespoon dried bredcurmbs
+- a couple drops of lemon juice
+- 1 teaspoon rosemary, minced
 
 ## Directions
 

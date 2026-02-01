@@ -4,16 +4,16 @@ categories: Main
 
 ## Beefy ingredients
 
- - 6oz unsaled and unsmoked lean bacon or pork belly
- - 3lbs lean stew beef, cut into 2 to 3 inch pieces
- - 3 cups full bodied red wine, such as Mâcon, Burgundy, or Mountain Red
- - 2 cups beef buillon
- - 1 tablespoon tomato paste
- - 3 cloves mashed garlic
- - &frac12; teaspoon thyme
- - 1 bay leaf
- - salt & pepper
- - Olive oil
+- 6oz unsaled and unsmoked lean bacon or pork belly
+- 3lbs lean stew beef, cut into 2 to 3 inch pieces
+- 3 cups full bodied red wine, such as Mâcon, Burgundy, or Mountain Red
+- 2 cups beef buillon
+- 1 tablespoon tomato paste
+- 3 cloves mashed garlic
+- &frac12; teaspoon thyme
+- 1 bay leaf
+- salt & pepper
+- Olive oil
 
 ## Beefy directions
 
@@ -27,13 +27,13 @@ categories: Main
 
 ## Onion and mushroom garniture ingredients
 
- - 1ish pound button mushrooms
- - &frac12; tablespoon olive oil
- - 1&frac12; tablespoon butter
- - plus 1 tablespoon butter
- - &frac14; teaspoon salt
- - plus &frac12; teaspoon salt
- - 18 to 24 small (1 inch) white onions
+- 1ish pound button mushrooms
+- &frac12; tablespoon olive oil
+- 1&frac12; tablespoon butter
+- plus 1 tablespoon butter
+- &frac14; teaspoon salt
+- plus &frac12; teaspoon salt
+- 18 to 24 small (1 inch) white onions
 
 ## Onion and mushroom garniture directions
 
@@ -49,8 +49,8 @@ categories: Main
 
 ## Sauce and serving
 
- - 3 tablespoons butter
- - 3 tablespoons flour
+- 3 tablespoons butter
+- 3 tablespoons flour
 
 ## Directions
 
@@ -60,4 +60,4 @@ categories: Main
 4. Add the oniony liquid and bring to to a simmer.
 5. Combine everything and simmer for five minutes.
 
-**Source:** Julia Child's *The French Chef Cookbook*, Published in 1968 by Alfred A Knopf
+**Source:** Julia Child's _The French Chef Cookbook_, Published in 1968 by Alfred A Knopf

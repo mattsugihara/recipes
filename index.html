@@ -11,7 +11,8 @@ layout: recipe-list
         {{ category_name }}
       </h2>
       <ul class="recipe-list">
-        {% for post in site.categories[category_name] %}
+        {% assign posts = site.categories[category_name] | sort %}
+        {% for post in posts %}
         <li>
           <a href="{{ site.baseurl }}{{ post.url }}" class="recipe-card">
               {{ post.title  | capitalize }}

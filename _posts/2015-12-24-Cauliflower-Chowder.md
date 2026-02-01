@@ -28,8 +28,3 @@ categories: Soup
 6. Turn off heat then stir in 2 cups cheddar cheese a little at a time until smooth, then stir in half the cooked bacon. Taste and adjust salt, pepper, and/or hot sauce if necessary. Serve topped with remaining shredded cheese, cooked bacon, and green onions, if desired.
 
 source: [Iowa Girl Eats](http://iowagirleats.com/2012/09/25/bacon-cheddar-cauliflower-chowder-a-low-carb-alternative-to-baked-potato-soup/)
-
-	
-
-
-

@@ -4,35 +4,35 @@ categories: Pasta
 
 ## Ingredients
 
- - 4oz chicken livers
- - 4 anchovy fillets
- - 1 teaspoon marmite
- - 1 tablespoon soy sauce
- - 2 cups whole milk
- - &frac12; cup heavy cream
- - 2 cups low-sodium chicken stock
- - &frac14; oz (1 packet) gelatin
- - &frac14; cup olive oil
- - 4 cloves garlic (minced)
- - 2 teaspoons dried oregano
- - Red pepper flakes
- - 28oz can whole tomatoes, crushed by hand into &frac12; inch chunks
- - 4oz pancetta in &frac12; inch chunks
- - 1 large onion, finely chopped
- - 2 carrots
- - 3 stalks celery
- - 4 tablespoons unsalted butter
- - 1 pound ground lamb (or 85/15 ground beef)
- - 1 pound ground pork
- - 1 pound ground veal
- - &frac12; cup fresh sage leaves
- - 1 bottle dry red or white wine
- - 2 bay leaves
- - &frac12; cup minced fresh basil
- - &frac12; cup minced fresh parsley
- - 1 Tablespoon asian fish sauce
- - 2 oz parmigiano-reggiano
- - salt and pepper
+- 4oz chicken livers
+- 4 anchovy fillets
+- 1 teaspoon marmite
+- 1 tablespoon soy sauce
+- 2 cups whole milk
+- &frac12; cup heavy cream
+- 2 cups low-sodium chicken stock
+- &frac14; oz (1 packet) gelatin
+- &frac14; cup olive oil
+- 4 cloves garlic (minced)
+- 2 teaspoons dried oregano
+- Red pepper flakes
+- 28oz can whole tomatoes, crushed by hand into &frac12; inch chunks
+- 4oz pancetta in &frac12; inch chunks
+- 1 large onion, finely chopped
+- 2 carrots
+- 3 stalks celery
+- 4 tablespoons unsalted butter
+- 1 pound ground lamb (or 85/15 ground beef)
+- 1 pound ground pork
+- 1 pound ground veal
+- &frac12; cup fresh sage leaves
+- 1 bottle dry red or white wine
+- 2 bay leaves
+- &frac12; cup minced fresh basil
+- &frac12; cup minced fresh parsley
+- 1 Tablespoon asian fish sauce
+- 2 oz parmigiano-reggiano
+- salt and pepper
 
 ## Directions
 

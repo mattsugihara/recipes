@@ -13,7 +13,7 @@ categories: Main
 - 1 cup flour
 - 1 cup breadcrumbs
 - &frac14; olive oil
-	
+
 ## Directions
 
 1. Place 2 tablespoons butter in pan over medium heat. Cook broccoli, shallots, garlic until soft, about 10 minutes.

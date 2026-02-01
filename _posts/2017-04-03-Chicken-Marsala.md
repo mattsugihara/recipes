@@ -4,14 +4,14 @@ categories: Main
 
 ## Ingredients
 
- - 2 &frac12; pounds chicken (either boneless breasts or thighs)
- - 1 &frac12; tablespoons olive oil
- - 3 &frac12; tablespoons unsalted butter
- - 1 onion, halved and sliced thin
- - &frac34; pound mushrooms, sliced thin, any variety you like
- - &frac12; cup dry Marsala
- - 1 cup chicken broth
- - 2 tablespoons minced fresh parsley leaves (optional, for garnish)
+- 2 &frac12; pounds chicken (either boneless breasts or thighs)
+- 1 &frac12; tablespoons olive oil
+- 3 &frac12; tablespoons unsalted butter
+- 1 onion, halved and sliced thin
+- &frac34; pound mushrooms, sliced thin, any variety you like
+- &frac12; cup dry Marsala
+- 1 cup chicken broth
+- 2 tablespoons minced fresh parsley leaves (optional, for garnish)
 
 ## Directions
 

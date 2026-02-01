@@ -12,7 +12,7 @@ categories: Salad
 - 4 ounces baby arugula
 - 1/3 cup roasted, salted Marcona almonds, toasted
 - 4 ounces soft goat cheese, such as Montrachet, crumbled
-	
+
 ## Directions
 
 1. Preheat oven to 400°F

@@ -24,8 +24,3 @@ categories: Veggie
 Serve with blue cheese dip
 
 source: [Good Dinner Mom](http://www.gooddinnermom.com/cauliflower-buffalo-bites/)
-
-	
-
-
-

@@ -4,10 +4,10 @@ categories: Marinade
 
 ## Ingredients
 
- - 4 pound lamb leg
- - 3 cups zesty italian dressing
- - &frac34; cup red wine vinegar
- - 1 white onion, coarsely diced
+- 4 pound lamb leg
+- 3 cups zesty italian dressing
+- &frac34; cup red wine vinegar
+- 1 white onion, coarsely diced
 
 ## Directions
 

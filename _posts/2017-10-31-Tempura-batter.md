@@ -4,12 +4,12 @@ categories: Other
 
 ## Ingredients
 
- - &frac12; cup (3 ounces) cornstarch
- - &frac12; cup (2 1/4 ounces) all-purpose flour
- - Kosher salt
- - 1 large egg
- - &frac14; cup (60ml) 80-proof vodka
- - &frac12; cup (120ml) ice-cold club soda
+- &frac12; cup (3 ounces) cornstarch
+- &frac12; cup (2 1/4 ounces) all-purpose flour
+- Kosher salt
+- 1 large egg
+- &frac14; cup (60ml) 80-proof vodka
+- &frac12; cup (120ml) ice-cold club soda
 
 ## Directions
 

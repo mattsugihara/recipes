@@ -15,7 +15,7 @@ categories: Baking
 - 2 cups flour
 - &frac14; cup soft goat cheese
 - &frac14; cup coarsely grated parmesan
-	
+
 ## Directions
 
 1. Preheat oven to 350&deg; and butter 12 cup muffin tin

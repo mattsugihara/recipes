@@ -4,18 +4,18 @@ categories: Main
 
 ## Ingredients
 
- - 2 Tbsp [green curry paste](http://mtsugi.github.io/recipes/curry-paste)
- - &frac12; cup coconut cream
- - 1 cup coconut milk
- - 100g sliced chicken
- - 2 thai eggplants (or ~half a japanese eggplant)
- - &frac14; pea eggplant (Ma Kheau Phuang)
- - &frac14; cup sliced onion
- - &frac14; peppercorn
- - 1 large red chili
- - 2 kaffir lime leaves
- - &frac14; sweet basil
- - 1 Tbsp fish sauce
+- 2 Tbsp [green curry paste](http://mtsugi.github.io/recipes/curry-paste)
+- &frac12; cup coconut cream
+- 1 cup coconut milk
+- 100g sliced chicken
+- 2 thai eggplants (or ~half a japanese eggplant)
+- &frac14; pea eggplant (Ma Kheau Phuang)
+- &frac14; cup sliced onion
+- &frac14; peppercorn
+- 1 large red chili
+- 2 kaffir lime leaves
+- &frac14; sweet basil
+- 1 Tbsp fish sauce
 
 ## Directions
 

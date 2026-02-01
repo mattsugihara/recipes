@@ -4,23 +4,23 @@ categories: Main
 
 ## Ingredients
 
- - 1 packet unflavored gelatin (optional, see note above)
- - &frac12; cup homemade chicken stock or low-sodium broth (optional, see note above)
- - 4 ounces fresh white bread, crusts removed and bread cut into &frac12;-inch cubes (about 2 unpacked cups)
- - 1/3 cup buttermilk, plus more as needed
- - 1 medium onion, minced
- - 8 cloves garlic, finely minced
- - 2 ounces grated Parmigiano-Reggiano, grated, plus more for serving.
- - &frac12; cup loosely packed fresh parsley leaves, minced
- - 4 teaspoons kosher salt (18 grams; see note above)
- - Freshly ground black pepper
- - 3 ounces fatty pancetta, finely minced (see note above)
- - 4 large egg yolks
- - 1 teaspoon dried oregano
- - 1 teaspoon ground fennel seed
- - 1 pound ground beef (at least 25% fat)
- - 1 pound ground pork (at least 25% fat)
- - 5 cups tomato sauce, such as Quick and Easy Italian American Red Sauce, The Best Slow Cooked Tomato Sauce, or The Best Fresh Tomato Sauce
+- 1 packet unflavored gelatin (optional, see note above)
+- &frac12; cup homemade chicken stock or low-sodium broth (optional, see note above)
+- 4 ounces fresh white bread, crusts removed and bread cut into &frac12;-inch cubes (about 2 unpacked cups)
+- 1/3 cup buttermilk, plus more as needed
+- 1 medium onion, minced
+- 8 cloves garlic, finely minced
+- 2 ounces grated Parmigiano-Reggiano, grated, plus more for serving.
+- &frac12; cup loosely packed fresh parsley leaves, minced
+- 4 teaspoons kosher salt (18 grams; see note above)
+- Freshly ground black pepper
+- 3 ounces fatty pancetta, finely minced (see note above)
+- 4 large egg yolks
+- 1 teaspoon dried oregano
+- 1 teaspoon ground fennel seed
+- 1 pound ground beef (at least 25% fat)
+- 1 pound ground pork (at least 25% fat)
+- 5 cups tomato sauce, such as Quick and Easy Italian American Red Sauce, The Best Slow Cooked Tomato Sauce, or The Best Fresh Tomato Sauce
 
 ## Directions
 

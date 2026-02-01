@@ -10,7 +10,6 @@ categories: Veggie
 - Salt and pepper to taste
 - Olive oil or butter (optional)
 
-
 ## Directions
 
 1. Cut the bacon into strips and render over medium heat.

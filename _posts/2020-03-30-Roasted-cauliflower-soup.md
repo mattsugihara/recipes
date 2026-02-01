@@ -4,23 +4,23 @@ categories: Soup
 
 ## Ingredients
 
- - 1 large head cauliflower (about 2 pounds), stem discarded, florets cut into 2-inch pieces, leaves reserved (if available)
- - 2 medium white onions, halved and thinly sliced
- - 3 tablespoons extra-virgin olive oil
- - 1 ½ teaspoons ground cumin
- - 1 ½ teaspoons ground coriander
- - Sea salt and ground black pepper
- - 2 tablespoons salted butter
- - 4 garlic cloves, crushed
- - 1 large potato (about 14 ounces), skin on, cut into 1-inch pieces
- - 1 teaspoon ground turmeric
- - 1 quart vegetable or chicken stock
+- 1 large head cauliflower (about 2 pounds), stem discarded, florets cut into 2-inch pieces, leaves reserved (if available)
+- 2 medium white onions, halved and thinly sliced
+- 3 tablespoons extra-virgin olive oil
+- 1 ½ teaspoons ground cumin
+- 1 ½ teaspoons ground coriander
+- Sea salt and ground black pepper
+- 2 tablespoons salted butter
+- 4 garlic cloves, crushed
+- 1 large potato (about 14 ounces), skin on, cut into 1-inch pieces
+- 1 teaspoon ground turmeric
+- 1 quart vegetable or chicken stock
 
 ### Garnish
 
- - Toasted sliced almonds
- - Sour cream
- - Parsley
+- Toasted sliced almonds
+- Sour cream
+- Parsley
 
 ## Directions
 

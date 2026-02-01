@@ -24,15 +24,10 @@ categories: Soup
 5. Trim, smash, and peel the other head of garlic.
 6. In a heavy bottomed pot, heat 1 tsp. olive oil and 1 tbsp butter. Over medium heat, add raw garlic, sliced shallots, salt, pepper, and chili flakes. Saute for 2 - 3 minutes, reduce heat, cover, and let go for 30 minutes, stirring occasionally.
 7. Peel and slice potatoes.
-7. Remove cover and increase heat to medium until shallots just begin to brown. Add 3 cups stock, wine, potatoes, roasted garlic, herbs, and salt.
-8. Bring to a biol, then allow to simmer until potatoes are tender, aobut 15 minutes.
-9. Remove the bouquet garni and puree soup.
-10. Adjust with salt, pepper, wine as needed.
-11. Best if served a day later, but may thicken.
+8. Remove cover and increase heat to medium until shallots just begin to brown. Add 3 cups stock, wine, potatoes, roasted garlic, herbs, and salt.
+9. Bring to a biol, then allow to simmer until potatoes are tender, aobut 15 minutes.
+10. Remove the bouquet garni and puree soup.
+11. Adjust with salt, pepper, wine as needed.
+12. Best if served a day later, but may thicken.
 
 source: [Brooklyn Supper](http://www.brooklynsupper.net/2014/10/garlic-soup/#.VKhtnWTF8hA)
-
-	
-
-
-

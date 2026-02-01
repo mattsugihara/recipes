@@ -4,12 +4,12 @@ categories: Dessert
 
 ## Ingredients
 
- - 4 Eggs
- - 2¼ cups sugar
- - 5 cups milk
- - 4 cups cream
- - 4½ teaspoons vanilla
- - ½ teaspoon salt
+- 4 Eggs
+- 2¼ cups sugar
+- 5 cups milk
+- 4 cups cream
+- 4½ teaspoons vanilla
+- ½ teaspoon salt
 
 ## Directions
 

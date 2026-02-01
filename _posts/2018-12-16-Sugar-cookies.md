@@ -4,13 +4,13 @@ categories: Baking
 
 ## Ingredients
 
- - 3 cups all-purpose flour
- - &frac34; teaspoon baking powder
- - &frac14; teaspoon salt
- - 1 cup unsalted butter, softened
- - 1 cup sugar
- - 1 egg, beaten
- - 1 tablespoon milk
+- 3 cups all-purpose flour
+- &frac34; teaspoon baking powder
+- &frac14; teaspoon salt
+- 1 cup unsalted butter, softened
+- 1 cup sugar
+- 1 egg, beaten
+- 1 tablespoon milk
 
 ## Directions
 

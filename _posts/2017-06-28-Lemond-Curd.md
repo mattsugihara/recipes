@@ -13,7 +13,7 @@ categories: Sauce
 
 ## Directions
 
-1. Melt butter over *very low* heat.
+1. Melt butter over _very low_ heat.
 2. Muddle sugar and lemon zest, then add lemon juice and eggs.
 3. Add sugar mixture to butter. Increase temperature to low, and whisk frequently until thick (about 170&deg;f)
 4. Chill.

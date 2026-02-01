@@ -13,7 +13,7 @@ title: "Mom's christmas cookies"
 - 3 cups flour
 - 1 Tbsp. baking powder
 - 1 tsp. salt
- 
+
 ## Directions
 
 1. Cream sugar and margarine.

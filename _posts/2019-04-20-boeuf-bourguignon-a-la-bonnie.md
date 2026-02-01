@@ -4,21 +4,21 @@ categories: Main
 
 ## Ingredients
 
- - 2 cups low sodium chicken broth
- - 4 packets (3 Tablespoons + 1 teaspoon) unflavored gelatin
- - 2 Tablespoons vegitable oil
- - 3 pounds chuck roast, cut into 3 steaks
- - 1&frac14; pounds carrots (&frac12; pound split lengthwise, the rest coarse diced)
- - &frac12; pound yellow onions, split in half
- - &frac14; brandy or cognac
- - 3 cups dry red wine
- - 4 garlic cloves
- - 1 Tablespoon fish sauce
- - 1 bouquet garnis (4 sprigs thyme, 1 bay leaf, 3 sprigs parsely)
- - 2 Tablespoons flour
- - &frac14; pound pork belly, cut into lardons
- - 1 pound cremini mushrooms, stemmed and caps cut into quarters
- - 8 ounces pearl onions
+- 2 cups low sodium chicken broth
+- 4 packets (3 Tablespoons + 1 teaspoon) unflavored gelatin
+- 2 Tablespoons vegitable oil
+- 3 pounds chuck roast, cut into 3 steaks
+- 1&frac14; pounds carrots (&frac12; pound split lengthwise, the rest coarse diced)
+- &frac12; pound yellow onions, split in half
+- &frac14; brandy or cognac
+- 3 cups dry red wine
+- 4 garlic cloves
+- 1 Tablespoon fish sauce
+- 1 bouquet garnis (4 sprigs thyme, 1 bay leaf, 3 sprigs parsely)
+- 2 Tablespoons flour
+- &frac14; pound pork belly, cut into lardons
+- 1 pound cremini mushrooms, stemmed and caps cut into quarters
+- 8 ounces pearl onions
 
 ## Directions
 

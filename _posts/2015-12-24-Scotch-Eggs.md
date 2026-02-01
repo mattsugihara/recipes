@@ -35,5 +35,4 @@ categories: Main
 10. Fry the eggs 6-7 minutes, turning occasionally to brown evenly.
 11. Transfer to a wire rack to degrease, crack some pepper on them, and serve.
 
-
 Stolen directly from: [The Fat Radish Kitchen Diaries](http://www.amazon.com/The-Fat-Radish-Kitchen-Diaries/dp/0847843343?tag=food52-20)

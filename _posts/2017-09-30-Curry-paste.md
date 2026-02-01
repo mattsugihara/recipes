@@ -4,30 +4,32 @@ categories: Other
 
 ## Ingredients
 
- - 1 Tbsp chopped lemongrass
- - 1 Tbsp chopped shallot
- - 1 tsp chopped galangal
- - 1 tsp chopped garlic
- - &frac12; tsp chopped kafir lime leaf
- - &frac12; tsp coriander seed
- - &frac12; tsp cumin seed
- - &frac12; tsp peppercord
- - &frac14; tsp salt
- - &frac12; tsp shrimp paste (optional)
+- 1 Tbsp chopped lemongrass
+- 1 Tbsp chopped shallot
+- 1 tsp chopped galangal
+- 1 tsp chopped garlic
+- &frac12; tsp chopped kafir lime leaf
+- &frac12; tsp coriander seed
+- &frac12; tsp cumin seed
+- &frac12; tsp peppercord
+- &frac14; tsp salt
+- &frac12; tsp shrimp paste (optional)
 
 ### For red curry
- - 4 dried red chilis
- - 1 tsp chopped finger root
+
+- 4 dried red chilis
+- 1 tsp chopped finger root
 
 ### For yellow curry
+
 - 4 dried red chilis
 - 1 tsp chopped tumeric
 - 1 tsp yellow curry powder
 
 ### For green curry
- - 4 fresh green chilis
- - 1 tsp chopped finger root
 
+- 4 fresh green chilis
+- 1 tsp chopped finger root
 
 ## Directions
 

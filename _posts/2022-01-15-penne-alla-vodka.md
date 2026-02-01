@@ -4,20 +4,19 @@ categories: Pasta
 
 ## Ingredients
 
- - 3/4 lb pasta (penne, rotini, etc)
- - 1 large yellow onion, diced
- - 3 cloves garlic, minced
- - 1 teaspoon oregano
- - 1 teaspoon chili flakes
- - Salt
- - Pepper
- - Olive oil
- - 4oz. Tomato paste
- - 1/3 cup vodka
- - 1 cup cream
- - Parmigiano reggiano
- - Parsley or basil, chiffonaded for garnish
-
+- 3/4 lb pasta (penne, rotini, etc)
+- 1 large yellow onion, diced
+- 3 cloves garlic, minced
+- 1 teaspoon oregano
+- 1 teaspoon chili flakes
+- Salt
+- Pepper
+- Olive oil
+- 4oz. Tomato paste
+- 1/3 cup vodka
+- 1 cup cream
+- Parmigiano reggiano
+- Parsley or basil, chiffonaded for garnish
 
 ## Directions
 
@@ -30,6 +29,5 @@ categories: Pasta
 7. Slowly add pasta water until the sauce becomes velvety
 8. Combine the pasta, stir, and mix in a whole heap of cheese
 9. Garnish with fresh herbs and serve
-
 
 **Source:** [scheckeats on TikTok](https://www.tiktok.com/@scheckeats/video/6830166716597816581?lang=en)

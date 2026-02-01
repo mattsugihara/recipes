@@ -16,7 +16,6 @@ categories: Soup
 - 2 teaspoons freshly ground black pepper
 - 3/4 cup heavy cream
 
-
 ## Directions
 
 1. Heat the olive oil in a large, heavy-bottomed pot over medium-low heat. Add the onions and carrots and saute for about 10 minutes, until very tender.

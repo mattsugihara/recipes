@@ -4,7 +4,7 @@ categories: Breakfast
 
 ## Ingredients
 
-###  Sauce
+### Sauce
 
 - 12-ounce can peeled tomatoes, plus &frac12; cup of the juices
 - 1 jalapeño, with seeds, roughly chopped
@@ -14,7 +14,7 @@ categories: Breakfast
 - &frac14; cup roughly chopped fresh cilantro
 - Pinch of salt
 
-###  Everything else
+### Everything else
 
 - Tortilla chips
 - Monterey Jack, shredded
@@ -33,8 +33,3 @@ categories: Breakfast
 6. Remove pan from oven, top with eggs, avocado, and cilantro.
 
 source: [Food 52](http://food52.com/recipes/33004-red-chilaquiles-with-fried-eggs)
-
-	
-
-
-

@@ -15,5 +15,4 @@ categories: Sauce
 
 ## Directions
 
-mix it up.  add in blue cheese.
-
+mix it up. add in blue cheese.

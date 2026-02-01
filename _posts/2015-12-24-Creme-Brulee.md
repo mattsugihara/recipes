@@ -18,8 +18,3 @@ categories: Dessert
 4. Remove the creme brulee from the refrigerator for at least 30 minutes prior to browning the sugar on top. Divide the remaining &frac12; cup vanilla sugar equally among the 6 dishes and spread evenly on top. Using a torch, melt the sugar and form a crispy top. Allow the creme brulee to sit for at least 5 minutes before serving.
 
 source: [Alton Brown](http://www.foodnetwork.com/recipes/alton-brown/creme-brulee-recipe.html)
-
-	
-
-
-

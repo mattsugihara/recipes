@@ -19,7 +19,7 @@ categories: Dessert
 - 1 &frac12; teaspoons pure vanilla extract
 - 1 tablespoon red food coloring (&frac12; ounce)
 - &frac34; cup boiling water
- 
+
 ## Cream Cheese Buttercream
 
 - &frac34; cup 100% white grape juice
@@ -39,12 +39,13 @@ categories: Dessert
 5. Divide the batter equally among the prepared pans and bake until a wooden pick inserted into the center comes out clean, 25 to 30 minutes. Let the cakes cool in the pans for 15 minutes before turning them out onto wire racks to cool completely. Remove the parchment paper.
 
 ## For the Frosting
+
 1. In a small saucepan over medium-high heat, bring the grape juice to a boil. Continue to boil until reduced to &frac12; cup. Cool to room temperature.
-7. Meanwhile, in the bowl of a stand mixer fitted with a whisk attachment, whisk the cream cheese on medium speed until light and fluffy, about 3 minutes.
-8. Replace the whisk attachment with the paddle attachment and beat the butter into the cream cheese on medium speed, scraping the bowl as necessary, until light and fluffy. Increase the mixer speed to medium-high and beat until pale yellow and almost doubled in volume, scraping the bowl as necessary, about 4 minutes.
-9. In another bowl of a stand mixer fitted with the whisk attachment, whisk the egg yolks on high speed until thick and a pale yellow, about 3 minutes.
-10. Reduce the mixer speed to medium and add the cooled reduced grape juice to the egg yolks in a slow and steady stream until blended. Increase the mixer speed to high and whisk until very light and fluffy. On low speed, add the maple syrup and vanilla to the egg yolk mixture. Increase the mixer speed to high and whisk until smooth.
-11. Add half of the whipped cream cheese--butter to the egg yolk mixture and whisk on medium speed until blended. Add the remaining whipped cream cheese--butter and cinnamon and whisk until fluffy, scraping the bowl as necessary, about 5 minutes. Set aside until ready to use.
-12. To assemble and frost the cakes, place 1 cake layer, bottom-side up, on a cake plate. Use an offset spatula to spread 1 cup of the buttercream on top. Add the second cake layer, bottom-side down, and spread 1 cup of the buttercream on top. Top with the third cake layer, bottom-side up. Frost the top and sides of the cake with the remaining buttercream
+2. Meanwhile, in the bowl of a stand mixer fitted with a whisk attachment, whisk the cream cheese on medium speed until light and fluffy, about 3 minutes.
+3. Replace the whisk attachment with the paddle attachment and beat the butter into the cream cheese on medium speed, scraping the bowl as necessary, until light and fluffy. Increase the mixer speed to medium-high and beat until pale yellow and almost doubled in volume, scraping the bowl as necessary, about 4 minutes.
+4. In another bowl of a stand mixer fitted with the whisk attachment, whisk the egg yolks on high speed until thick and a pale yellow, about 3 minutes.
+5. Reduce the mixer speed to medium and add the cooled reduced grape juice to the egg yolks in a slow and steady stream until blended. Increase the mixer speed to high and whisk until very light and fluffy. On low speed, add the maple syrup and vanilla to the egg yolk mixture. Increase the mixer speed to high and whisk until smooth.
+6. Add half of the whipped cream cheese--butter to the egg yolk mixture and whisk on medium speed until blended. Add the remaining whipped cream cheese--butter and cinnamon and whisk until fluffy, scraping the bowl as necessary, about 5 minutes. Set aside until ready to use.
+7. To assemble and frost the cakes, place 1 cake layer, bottom-side up, on a cake plate. Use an offset spatula to spread 1 cup of the buttercream on top. Add the second cake layer, bottom-side down, and spread 1 cup of the buttercream on top. Top with the third cake layer, bottom-side up. Frost the top and sides of the cake with the remaining buttercream
 
 Stolen from: [Serious eats](http://www.seriouseats.com/recipes/2012/11/red-velvet-layer-cake-with-cream-cheese-frosting-recipe.html), who got it from [The Brown Betty Cookbook](https://www.amazon.com/Brown-Betty-Cookbook-Linda-Hinton/dp/111814435X/?tag=serieats-20)

@@ -6,22 +6,22 @@ title: Summer corn chowder
 Makes six servings
 
 ## Ingredients
- 
- - 4 &frac12; cups corn
- - 6 strips of bacon, cut into 1/2-inch pieces
- - 1 yellow onion, diced
- - 1 medium poblano, finely chopped
- - 1 jalapeño pepper, seeded and finely chopped
- - 1 small celery rib, finely chopped
- - 1 15oz can of whole peeled tomatoes finely chopped, or one can diced tomatoes
- - 2 medium golden potatoes (about 1 pound), peeled and cubed
- - 1 teaspoon salt
- - 1/8 teaspoon ground allspice
- - 1 small bay leaf
- - 1 cup cream
- - 2 cup milk
- - black pepper
- - Chopped parsley, for garnish
+
+- 4 &frac12; cups corn
+- 6 strips of bacon, cut into 1/2-inch pieces
+- 1 yellow onion, diced
+- 1 medium poblano, finely chopped
+- 1 jalapeño pepper, seeded and finely chopped
+- 1 small celery rib, finely chopped
+- 1 15oz can of whole peeled tomatoes finely chopped, or one can diced tomatoes
+- 2 medium golden potatoes (about 1 pound), peeled and cubed
+- 1 teaspoon salt
+- 1/8 teaspoon ground allspice
+- 1 small bay leaf
+- 1 cup cream
+- 2 cup milk
+- black pepper
+- Chopped parsley, for garnish
 
 ## Directions
 

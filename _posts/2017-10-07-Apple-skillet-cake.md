@@ -4,18 +4,18 @@ categories: Dessert
 
 ## Ingredients
 
- - 1 tablespoon butter
- - 3 pie apples, peeled and sliced
- - 2 tablespoons packed light brown sugar
- - ½ teaspoon ground cinnamon
- - ½ cup raisins (optional)
- - ¾ cup unbleached or all-purpose flour
- - ⅓ cup sugar
- - ⅛ teaspoon salt
- - 1½ cups milk
- - 2 eggs
- - 1 egg white
- - 2 teaspoons vanilla extract
+- 1 tablespoon butter
+- 3 pie apples, peeled and sliced
+- 2 tablespoons packed light brown sugar
+- ½ teaspoon ground cinnamon
+- ½ cup raisins (optional)
+- ¾ cup unbleached or all-purpose flour
+- ⅓ cup sugar
+- ⅛ teaspoon salt
+- 1½ cups milk
+- 2 eggs
+- 1 egg white
+- 2 teaspoons vanilla extract
 
 ## Directions
 

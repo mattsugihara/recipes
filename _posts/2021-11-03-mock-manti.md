@@ -4,20 +4,20 @@ categories: Pasta
 
 ## Ingredients
 
- - 1 pound egg noodles
- - 3ish cans of chicken broth
- - 1 lb. Ground lamb or beef
- - 1 small onion, minced
- - 1/4 cup chopped parsley
- - 2 teaspoons kosher salt
- - 1 1/2 teaspoon paprika
- - 1/2 teaspoon pepper
+- 1 pound egg noodles
+- 3ish cans of chicken broth
+- 1 lb. Ground lamb or beef
+- 1 small onion, minced
+- 1/4 cup chopped parsley
+- 2 teaspoons kosher salt
+- 1 1/2 teaspoon paprika
+- 1/2 teaspoon pepper
 
 ## Garnish
- - Plain yogurt
- - Garlic salt
- - Sumac
 
+- Plain yogurt
+- Garlic salt
+- Sumac
 
 ## Directions
 

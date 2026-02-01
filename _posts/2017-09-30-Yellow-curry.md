@@ -4,15 +4,15 @@ categories: Main
 
 ## Ingredients
 
- - 2 Tbsp [yello curry paste](http://mtsugi.github.io/recipes/curry-paste)
- - &frac12; cup coconut cream
- - 1 cup coconut milk
- - 100g sliced chicken
- - &frac12; sliced onion
- - 1 cup potato, peeled and cut into bite size-pieces
- - 1 green onion. Dice whites fine, cut greens into 3cm. pieces
- - 1 Tbsp fish sauce
- - 100g chicken, sliced
+- 2 Tbsp [yello curry paste](http://mtsugi.github.io/recipes/curry-paste)
+- &frac12; cup coconut cream
+- 1 cup coconut milk
+- 100g sliced chicken
+- &frac12; sliced onion
+- 1 cup potato, peeled and cut into bite size-pieces
+- 1 green onion. Dice whites fine, cut greens into 3cm. pieces
+- 1 Tbsp fish sauce
+- 100g chicken, sliced
 
 ## Directions
 

@@ -3,19 +3,20 @@ category: Soup
 —
 
 ## Ingredients
- - ½ pound spicy Italian sausage
- - 1 small yellow onion, chopped
- - 4 garlic cloves, minced
- - 2 celery stalks, chopped
- - 6 cups low-sodium chicken broth
- - 1 tablespoon dried basil
- - 1 tablespoon dried oregano
- - Pinch of crushed red pepper flakes
- - 4 to 6 cups Tuscan kale, stemmed and chopped
- - ¾ cup half and half
- - ½ cup grated Parmesan cheese, plus more for serving
- - 24 ounces gnocchi
- - Fresh thyme leaves, for garnish
+
+- ½ pound spicy Italian sausage
+- 1 small yellow onion, chopped
+- 4 garlic cloves, minced
+- 2 celery stalks, chopped
+- 6 cups low-sodium chicken broth
+- 1 tablespoon dried basil
+- 1 tablespoon dried oregano
+- Pinch of crushed red pepper flakes
+- 4 to 6 cups Tuscan kale, stemmed and chopped
+- ¾ cup half and half
+- ½ cup grated Parmesan cheese, plus more for serving
+- 24 ounces gnocchi
+- Fresh thyme leaves, for garnish
 
 ## Directions
 

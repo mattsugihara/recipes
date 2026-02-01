@@ -4,18 +4,17 @@ categories: Main
 
 ## Ingredients
 
- - 2 Tbsp [red curry paste](http://mtsugi.github.io/recipes/curry-paste)
- - 2 cups water or chicken stock
- - 100g chicken, sliced
- - green beans
- - &frac14; pea egplant (Ma Kheau Phuang)
- - 1 large red chili
- - &frac14; peppercorn
- - 2 kaffir lime leaves
- - &frac14; holi basil
- - 1 Tbsp fish sauce
- - 1 Tbsp cooking oil
-
+- 2 Tbsp [red curry paste](http://mtsugi.github.io/recipes/curry-paste)
+- 2 cups water or chicken stock
+- 100g chicken, sliced
+- green beans
+- &frac14; pea egplant (Ma Kheau Phuang)
+- 1 large red chili
+- &frac14; peppercorn
+- 2 kaffir lime leaves
+- &frac14; holi basil
+- 1 Tbsp fish sauce
+- 1 Tbsp cooking oil
 
 ## Directions
 

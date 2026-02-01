@@ -4,12 +4,12 @@ Category: Dessert
 
 ## Ingredients
 
- - 3 large can of peaches, drained (29 ounces)
- - 1 stick of butter
- - 1 cup sugar
- - 1 cup self-rising flour
- - 1 cup milk
- - 1 tablesppon vanilla extract
+- 3 large can of peaches, drained (29 ounces)
+- 1 stick of butter
+- 1 cup sugar
+- 1 cup self-rising flour
+- 1 cup milk
+- 1 tablesppon vanilla extract
 
 ## Directions
 
