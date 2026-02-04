@@ -10,7 +10,7 @@ categories: Breakfast
 
 ## Directions
 
-1. Acquire [biscuits](../biscuits)
+1. Acquire [biscuits](../Biscuits)
 2. Fry sausage loose.
 3. Sprinkle in flour and let the sausage absorb it
 4. Add milk and season.
