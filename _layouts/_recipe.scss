@@ -3,10 +3,11 @@
 
 
 .recipe-wrapper {
-  max-width: 72rem;
+  max-width: 60rem;
   padding: 0 1rem;
   margin: 0 auto;
 }
+
 .recipe {
   ol,
   ul {
@@ -49,5 +50,9 @@
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 1.5rem;
+  }
+
+  h1 {
+    padding: 3rem 0;
   }
 }
