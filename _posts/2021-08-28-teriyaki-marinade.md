@@ -2,9 +2,9 @@
 categories: Marinade
 ---
 
-## Ingredients
-
 For approximately 2 lbs. sliced beef or chicken
+
+## Ingredients
 
 - 1 c. soy sauce
 - 2-inch + piece of ginger root, grated (to taste)

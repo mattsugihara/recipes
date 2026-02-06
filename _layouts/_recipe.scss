@@ -8,6 +8,10 @@
   margin: 0 auto;
 }
 
+.title-block p {
+  font-size: var(--small-font-size);
+}
+
 .recipe {
   ol,
   ul {
@@ -52,7 +56,11 @@
     gap: 1.5rem;
   }
 
-  h1 {
+  .title-block {
     padding: 3rem 0;
+
+    *:last-child {
+      padding-bottom: 0;
+    }
   }
 }

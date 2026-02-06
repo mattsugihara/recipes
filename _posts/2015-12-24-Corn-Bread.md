@@ -2,7 +2,9 @@
 categories: Baking
 ---
 
-## Dry Ingredients
+## Ingredients
+
+### Dry ingredients
 
 - 1 cup corn meal
 - 1 cup flour
@@ -10,7 +12,7 @@ categories: Baking
 - 1 Tbsp baking powder
 - 1 tsp salt
 
-## Wet Ingredients
+### Wet ingredients
 
 - 1 egg, lighly beaten
 - 1 cup milk

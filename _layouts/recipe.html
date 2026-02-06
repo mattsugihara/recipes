@@ -2,20 +2,35 @@
 layout: base
 ---
 
-{% comment %} This wonderfully hacky solution looks for the "directions" h2
-element and splits the recipe into two separate blobs. Each blob is then placed
-in a separate section {% endcomment %} {% assign parts = content | split: '
-<h2 id="directions">Directions</h2>
-' %}
+{% comment %}
+This wonderfully hacky solution splits the output HTML of documents at each
+`<h2>` element, allowing the resulting blobs of html to be placed in different
+locations in the template. There are at most two places where content is split:
+ 1. The Ingredients h2
+ 2. The Directions h2
+
+Some recipes have notes that appear before the Ingredients at the top of the
+document. To ensure consistent rendering, the order of the html blobs is
+reversed and placed in the template in reverse order. This ensures content
+renders properly regardless of notes being present at the start of the doc.
+
+Finally, Prettier does not handle liquid layout tags particularly well, so this
+file has been added to .prettierignore
+{% endcomment %}
+
+{% assign parts = content | split: '<h2>'| reverse %}
 <a class="back-link" href="{{ site.baseurl }}/">&#8249; Recipe list</a>
 
 <div class="recipe-wrapper">
-  <h1>{{page.title}}</h1>
+  <div class="title-block">
+    <h1>{{page.title}}</h1>
+    {{ parts[2] }}
+  </div>
   <div class="recipe">
-    <section class="ingredients">{{ parts[0] }}</section>
+    <section class="ingredients">
+      <h2>{{ parts[1] }}</section>
     <section class="directions">
-      <h2 id="directions">Directions</h2>
-      {{ parts[1] }}
+      <h2>{{ parts[0] }}
     </section>
   </div>
 </div>

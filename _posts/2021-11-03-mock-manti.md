@@ -13,7 +13,7 @@ categories: Pasta
 - 1 1/2 teaspoon paprika
 - 1/2 teaspoon pepper
 
-## Garnish
+### Garnish
 
 - Plain yogurt
 - Garlic salt

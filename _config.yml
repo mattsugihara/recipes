@@ -16,6 +16,9 @@ baseurl: /recipes
 # Build settings
 markdown: kramdown
 
+kramdown:
+  auto_ids: false
+
 sass:
   load_paths:
     - _includes
